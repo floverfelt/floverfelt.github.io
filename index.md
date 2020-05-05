@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## floverfelt.org
 
-You can use the [editor on GitHub](https://github.com/floverfelt/floverfelt.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is the personal website and blog of [floverfelt](https://floverfelt.org).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This site is intended for my thoughts, projects, ideas, etc. on things I find interesting or am thinking about.
 
-### Markdown
+## Site Philosophy
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I feel like too many personal sties/blogs/etc. attempt to create a faux digital-persona of the author. I'm trying to actively avoid doing that here and as result this site is what I want it to be and represents my ideal for a personal site - simple, evolving, and useful.
 
-```markdown
-Syntax highlighted code block
+That said, I hope you, the reader, find the content here interesting and valuable as well.
 
-# Header 1
-## Header 2
-### Header 3
+## Logistics
 
-- Bulleted
-- List
+I will add new to-do work as ["Issues" on my Github](https://github.com/floverfelt/floverfelt.github.io/issues). Feel free to contribute or add new suggestions there.
 
-1. Numbered
-2. List
+New blog posts will be in the [\_posts](https://github.com/floverfelt/floverfelt.github.io/tree/master/_posts) folder. I will post links to all of these at the bottom of this page.
 
-**Bold** and _Italic_ and `Code` text
+Any external sites that I find valuable I'll store in a seperate (links) page that I'll add here when its created.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/floverfelt/floverfelt.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Posts
