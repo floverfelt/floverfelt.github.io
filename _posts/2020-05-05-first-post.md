@@ -1,8 +1,6 @@
 ---
 layout: post
-title: A Trip
-categories: [blog, travel]
-tags: [hot, summer]
+title: Test Post
 ---
 
 ## Test post
