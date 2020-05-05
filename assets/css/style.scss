@@ -2,3 +2,21 @@
 ---
 
 @import "{{ site.theme }}";
+
+a {
+  color: blue;
+}
+
+body {
+  background-color: white;
+}
+
+header {
+  border: none;
+  color: inherit;
+  background: inherit;
+}
+
+h1.header {
+  color: royalblue;
+}
