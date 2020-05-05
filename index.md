@@ -18,4 +18,4 @@ New blog posts will be in the [\_posts](https://github.com/floverfelt/floverfelt
 
 Any external sites that I find valuable I'll store in a seperate (links) page that I'll add here when its created.
 
-## Posts
+## Links
