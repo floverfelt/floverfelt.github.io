@@ -1,6 +1,8 @@
-layout: page
-title: "POST TITLE"
-date: YYYY-MM-DD hh:mm:ss -0000
-categories: CATEGORY-1 CATEGORY-2
+---
+layout: post
+title: A Trip
+categories: [blog, travel]
+tags: [hot, summer]
+---
 
 ## Test post
