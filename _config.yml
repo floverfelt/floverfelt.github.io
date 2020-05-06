@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: floverfelt.org
 description: Thoughts, notes, etc.
 show_downloads: false
+permalink: /posts/:title:output_ext
