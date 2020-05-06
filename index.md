@@ -20,13 +20,6 @@ Any external sites that I find valuable I'll store at the bottom under "Links."
 
 ## Posts
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+* [Test post for messing around with Jekyll](https://floverfelt.org/posts/test-post-please-ignore)
 
 ## Links
