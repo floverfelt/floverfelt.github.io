@@ -7,6 +7,7 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="shortcut icon" type="image/x-icon" href="../assets/default/favicon/favicon.ico">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -16,16 +17,16 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-        <img class="sidebar-image" src="../assets/me.png" alt="Me" />
+        <img class="sidebar-image" src="../assets/default/images/me.png" alt="Me" />
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        
+
         <p class="view"><a href="{{ site.github.repository_url }}">View the Site on GitHub</a></p>
-        
+
         <p class="view"><a href="{{ site.github.owner_url }}">View my GitHub Profile</a></p>
-        
+
         <p class="view"><a href="https://www.linkedin.com/in/florian-overfelt">View my LinkedIn</a></p>
-        
+
         <p class="view"><a href="mailto:foverfelt@gmail.com">Email</a></p>
 
         {% if site.show_downloads %}
