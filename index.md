@@ -14,8 +14,10 @@ That said, I hope you, the reader, find the content here interesting and valuabl
 
 I will add new to-do work as ["Issues" on my Github](https://github.com/floverfelt/floverfelt.github.io/issues). Feel free to contribute or add new suggestions there.
 
-New blog posts will be in the [\_posts](https://github.com/floverfelt/floverfelt.github.io/tree/master/_posts) folder. I will post links to all of these at the bottom of this page.
+New blog posts will be in the [\_posts](https://github.com/floverfelt/floverfelt.github.io/tree/master/_posts) folder. I will post links to all of these in the "Posts" section.
 
-Any external sites that I find valuable I'll store in a seperate (links) page that I'll add here when its created.
+Any external sites that I find valuable I'll store at the bottom under "Links."
+
+## Posts
 
 ## Links
