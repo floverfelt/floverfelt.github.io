@@ -1,4 +1,4 @@
-# floverfelt.org
+## floverfelt.org
 
 This is the personal website and blog of [floverfelt](https://floverfelt.org).
 
