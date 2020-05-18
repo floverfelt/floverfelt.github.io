@@ -21,6 +21,7 @@ Any external sites that I find valuable I'll store at the bottom under "Links."
 ## Posts
 
 * [Test post for messing around with Jekyll](https://floverfelt.org/posts/test-post-please-ignore)
+* [What are Ben Shapiro & Pod Save America Talking About? An NLP Analysis](https://floverfelt.org/posts/podcast-nlp-analysis)
 
 ## Reviews
 
