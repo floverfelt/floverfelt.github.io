@@ -12,7 +12,7 @@ I used to listen to a lot more partisan political podcasts, which I've cut back 
 
 Likewise, I've always been curious about Natural Language Processing (NLP) and some of its applications. I find it to be a nice blend between computer science and the liberal arts.
 
-I saw this as a good opportunity for a project - download 50 of the latest Ben Shapiro Show podcasts and 50 of the latest Pod Save America podcasts, transcribe them into text, and run some analyses on them. Let's we can see what we can find out...
+I saw this as a good opportunity for a project - download 50 of the latest Ben Shapiro Show podcasts and 50 of the latest Pod Save America podcasts, transcribe them into text, and run some analyses on them. Let's see what we can find out...
 
 ## Audio Data Collection
 
@@ -195,8 +195,10 @@ For a fully fledged software team, I feel like this would not be super difficult
 
 ## Final Thoughts
 
-I hope people find this interesting and as a good jumping off point to the interesting things that can be done with basic NLP analyses. I may revisit this topic in the future with other podcasts.
+I hope people find this interesting and as a good jumping off point as to the things that can be done with basic NLP analyses. I may revisit this topic in the future with other podcasts.
 
 In particular, I feel like [Joe Rogan's podcast](https://en.wikipedia.org/wiki/The_Joe_Rogan_Experience) would work exceptionally well with NLP. It's structured to only have one person talking at a time, the quality is high, and there's a lot of content to pull from.
 
 If you have suggestions, please reach out and let me know.
+
+\- Florian
