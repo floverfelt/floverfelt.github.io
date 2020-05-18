@@ -14,6 +14,10 @@ This is a test post/page for experimenting with how [Jekyll posts work](https://
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut auctor mauris. Sed vel massa id eros pellentesque consectetur. Phasellus lectus justo, vestibulum ut scelerisque vel, consectetur sit amet nisl. Fusce ac auctor elit. Suspendisse potenti. Ut varius tortor diam, vitae sollicitudin ligula pellentesque ut. Vestibulum maximus lobortis orci, id mattis nisl sollicitudin vitae. Nunc cursus, magna vel fringilla tincidunt, lacus dui tempus nulla, sit amet dictum dui magna in orci. Integer eget enim non felis venenatis vestibulum. Donec quis lacus consectetur risus viverra lobortis a sit amet nisi. Aenean cursus nulla euismod vulputate varius. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas non metus lacus. Morbi lobortis gravida enim tristique blandit.
 
+Test of an inline image below.
+
+![An image!](/assets/default/images/me.png)
+
 Maecenas malesuada iaculis dui vitae consectetur. Sed consequat dolor sapien, quis suscipit risus fermentum non. Praesent placerat malesuada tempor. Vestibulum ut ornare sapien. Nunc eu malesuada mauris, ac finibus neque. Mauris rutrum dolor ut enim efficitur, eget vulputate nisi luctus. Cras ullamcorper suscipit odio volutpat suscipit. In at maximus dui, sit amet commodo nisi. Etiam sit amet nibh quam.
 
 Ut et tortor felis. Aliquam erat volutpat. Phasellus enim dui, convallis id risus et, tempus consequat lacus. Ut facilisis, nunc vitae tristique commodo, dolor purus viverra nunc, vitae cursus mauris sapien eget quam. Morbi malesuada lacinia euismod. Suspendisse id luctus lacus. Nullam suscipit justo id ipsum egestas ullamcorper.

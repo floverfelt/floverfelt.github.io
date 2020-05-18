@@ -25,5 +25,6 @@ Any external sites that I find valuable I'll store at the bottom under "Links."
 ## Reviews
 
 * [Wine Reviews](https://floverfelt.org/posts/wine-reviews)
+* [Beer Reviews](https://floverfelt.org/posts/beer-reviews)
 
 ## Links
