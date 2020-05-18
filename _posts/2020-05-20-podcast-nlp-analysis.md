@@ -143,6 +143,7 @@ That means Pod Save America mentions the Donald about fifteen times an episode, 
 ![Trump dispersion psa](/assets/podcast-nlp/images/trump_dispersion_psa.png)
 
 Compared to Ben:
+
 ![Trump dispersion ben](/assets/podcast-nlp/images/trump_dispersion_ben.png)
 
 Again, this may be fairly skewed due to the format. Or it could be that Ben, as a conservative who I think disapproves of the president's behavior, is trying to stay silent on Trump and focus on the opposition.
