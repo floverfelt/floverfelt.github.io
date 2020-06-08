@@ -8,7 +8,7 @@ This site is intended for my thoughts, projects, ideas, etc. on things I find in
 
 I feel like too many personal sties/blogs/etc. attempt to create a faux digital-persona of the author. I'm trying to actively avoid doing that here and as result this site is what I want it to be and represents my ideal for a personal site - simple, evolving, and useful.
 
-That said, I hope you, the reader, find the content here interesting and valuable as well.
+That said, I hope you find the content here interesting and valuable as well.
 
 ## Logistics
 
