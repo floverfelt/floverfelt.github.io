@@ -28,6 +28,7 @@ Any external sites that I find valuable I'll store at the bottom under "Links."
 
 * [Wine Reviews](https://floverfelt.org/posts/wine-reviews)
 * [Beer Reviews](https://floverfelt.org/posts/beer-reviews)
+* [Avernum 3: Ruined World Review](https://floverfelt.org/posts/avernum-3-review)
 
 ## Links
 
