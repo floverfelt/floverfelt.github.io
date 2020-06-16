@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "\"Avernum 3: Ruined World\" Review"
+title: "Avernum 3: Ruined World Review"
 slug: avernum-3-review
 tags: [video games, reviews, misc]
 author: Florian
@@ -30,11 +30,11 @@ This chunk of the game came very close to making me quit. You have to wander thr
 
 What's more, the factory has four levels and each takes ages to progress through because of all the damn lasers. I'm not sure why the mirror puzzle mechanic exists at all. It felt tedious to push mirrors around to "trick" the factory into doing something and often the mirrors wouldn't go in the direction you pushed them.
 
-All in all, I found this to be a grating game mechanic, though, to be fair, it was a way to introduce a puzzle element to the game which matched the lore.
+All in all, I found this to be a grating game mechanic, though, to be fair, it was a way to introduce a puzzle element to the game that meshed well with the lore.
 
 ## The Endgame
 
-The games' ending was fine from as an over arching story arc. I liked the idea of the Vahnatai betraying the Avernites for imposing on their home world. It was a nice twist and led to a natural happy ending between Avernum and the Empire. The devil is in the details here though.
+The games' ending was great thematically. I liked the idea of the Vahnatai betraying the Avernites for imposing on their home world. It was a nice twist and led to a natural happy ending between Avernum and the Empire. The devil is in the details though.
 
 My biggest grievance is in how this betrayal is revealed. You would expect this to happen in a gotcha sort of moment where a Vahnati steps out from behind a curtain or something. You would be wrong. Instead, you take some crystal shards to a magician and he pretty much goes "Yep, it's the Vahnatai."
 
@@ -42,7 +42,7 @@ This was just a little anticlimactic to say the least. Even when you reach the e
 
 I feel like it would have been much more satisfying for the evidence to still be out on who was causing the plagues until the end. It would have been really easy to write it that way too, Berra could have just not been able to identify the crystal shards - then you find the Vahnatai city empty, Erika missing, and it's ambiguous until the end.
 
-Erika's help in the end is also a little odd. First, where has she been the entire game? We were given her [boon](https://www.merriam-webster.com/dictionary/boon) at the beginning of the game and she's been MIA since then. Also, I was curious what would happen if you refused to accept her boon? It seemed like the end-game would get a lot more tedious but that's it. No real plot differences if you leave her in the dust (other than that she survives I suppose).
+Erika's help in the end is itself a little odd. First, where has she been the entire game? We were given her [boon](https://www.merriam-webster.com/dictionary/boon) at the beginning of the game and she's been MIA since then. Also, I was curious what would happen if you refused to accept her boon? It seemed like the end-game would get a lot more tedious but that's it. No real plot differences if you leave her in the dust (other than that she survives I suppose).
 
 The game also fails to scale well in the end. The Vahnatai are *far* easier to defeat than the alien creatures or the golems. I could dispatch a group of them without losing much health at all. So, instead of crescendoing to an epic fight, the late game felt like a lot of busy work in semi-mindlessly killing Vahnatai warriors. I did think the final "boss" fight, if you could call it that (?), fun. It wasn't challenging but there was a lot happening which I felt mimicked the chaos of the moment well and gave the player a lot to juggle.
 
