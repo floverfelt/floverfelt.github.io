@@ -46,8 +46,8 @@ The jump from the first question to the second is like getting hit over the head
 This is not really unique to Node. I tried searching for templating engines in Spring MVC and got pretty much the same responses.
 
 My guess is that in the microservice world where we send a bunch of JS to the end user to perform AJAX calls to an API, templating engines aren't as necessary and stuff 
-like [React](https://reactjs.org/) become more important.
-I could be wrong though as I don't work on a project that uses React or newer JS stacks. I would like to do a project which incorporates Angular/React/MongoDB,etc. at some point though.
+like [React](https://reactjs.org/) becomes more important.
+I could be wrong though as I don't work on a project that uses React or newer JS stacks. I would like to do a project which incorporates Angular/React/MongoDB, etc. at some point though.
 
 ## const, lets, vars
 
