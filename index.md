@@ -24,6 +24,7 @@ Any external sites that I find valuable I'll store at the bottom under "Links."
 * [What are Ben Shapiro & Pod Save America Talking About? An NLP Analysis](https://floverfelt.org/posts/podcast-nlp-analysis)
 * [On the Appeal of Virtual Worlds](https://floverfelt.org/posts/virtual-worlds)
 * [Reflections on building gistsecrets.io](https://floverfelt.org/posts/gist-secrets-reflections)
+* [OSRS Botting Math](https://floverfelt.org/posts/osrs-botting-math)
 
 ## Reviews
 
