@@ -27,7 +27,9 @@ So, we can throw together the following equation to estimate the gp a bot will m
 `y = z(x) - 6(floor(x / 336) + 1)`
 
 `y` = the amount the bot makes (gp)
+
 `z` = the rate of money making (in millions of gp per hour)
+
 `x` = the time worked (hrs)
 
 We'll assume the price of the bond is static at 6 million gp for now, though that could be pulled out to a seperate variable.
@@ -48,7 +50,9 @@ rates because those things aren't super bot-able to begin with and I think the w
 In a day, your bot would make:
 
 `y=3(24) - 6(floor(24/336) + 1)`
+
 `y=72 - 6(0 + 1)`
+
 `66m`
 
 So, a high level bot would make you roughly 33 dollars a day or 1.375/hr.
@@ -62,11 +66,13 @@ account to get it to that point, or, buy the account. An account even close to t
 So, our new equation for a bot's single day total is:
 
 `y= 3(24) - 6 - 100(2)`
+
 `y= -122`
 
 Yeah, you're in the hole a bit, let's bump up the time frame a bit to 335.9 hours (max without requiring a new bond):
 
 `y= 3(335.9) - 6 - 100(2)`
+
 `y= 801.7`
 
 So, in 14 days, you've made 400.5 dollars (28.5 dollars/day, 1.19 dollars/hr). This would require a bot farm of at least 20 bots to hit the 200 grand a year figure.
@@ -81,6 +87,7 @@ This is roughly the range where you don't need a ton of requirements so bots don
 Again, assume no bans and perfect efficiency:
 
 `y= .3(335.9) - 6`
+
 `y= 94.77`
 
 Each bot is then making 6.76 a day or 14 cents an hour. At that rate, you'll need 82 bots chugging away each day.
@@ -88,6 +95,7 @@ Each bot is then making 6.76 a day or 14 cents an hour. At that rate, you'll nee
 Probably though, these bot farms are just trash bots earning 100k an hour so:
 
 `y= .1(335.9) - 6`
+
 `y=27.6`
 
 In its bond time, the bot is making 13.8 dollars or 98 cents a day. So, you'll need 562 bots to hit the 200 grand/year.
