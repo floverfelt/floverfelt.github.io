@@ -97,3 +97,15 @@ In its bond time, the bot is making 13.8 dollars or 98 cents a day. So, you'll n
 Yeah, it's certainly possible to make this much and my math squares with what the guy in the video says.
 
 Is it a good idea? Probably not.
+
+First, you're ruining the game for others. Regardless of how you feel about the game itself, other people clearly enjoy it and running bots does
+harm the game's economy, the new player experience, and the general availability of resources for real players.
+
+More importantly though, there's probably a lot of hidden costs here. You'd have to pay for a server in some form. Managing a bot farm of a certain size
+definitely takes time. This isn't true passive income. You have to generate the bots, keep them running, mule the gold, sell the gold, keep up to date with the game, etc.
+
+I'd wager the bot farm owners spend at least 4 hours a day minimum working on this stuff. That's at least a part time job, if not more.
+
+Finally, there's the opportunity cost of the whole thing. It's not a marketable skill in any sense and you can hardly go to employer's or anyone else and explain what you do. Yes, you may learn programming in some form and quite a bit about computers, but I'm not sure botting is the best way to do that. Taking a class or building a side project would be much more validating and potentially useful.
+
+In summation - there's definitely money to be made here, but that doesn't make it a great idea.
