@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beer Reviews
+title: Black Mesa Review
 slug: black-mesa-review
 tags: [review, half life, black mesa]
 author: Florian
