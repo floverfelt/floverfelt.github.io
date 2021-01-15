@@ -9,7 +9,7 @@ author: Florian
 I've been locked out of my work computer for the last several hours with no end in sight, so 
 now seems like as good a time as any to review [Pieter Levels](https://twitter.com/levelsio) [makebook](https://makebook.io/).
 
-I bought it on sale for $15. The TL;DR: It's a decent-ish read with a lot of flaws - 5/10.
+I bought it on sale for $15. The TL;DR: It's a decent-ish read with a lot of flaws - 6/10.
 
 ## Levels Philosophy
 
@@ -46,7 +46,7 @@ I see this crop up a lot and it's not unique to this book. The idea is if you wa
 do something great you have to be original, which in this book is defined by:
 
 > Get ideas from your life experience. Get outside. Become original. 
-> Do crazy stuff that you're scared off. Jump off cliffs (do it safely). Ask people you like out. 
+> Do crazy stuff that you're scared of. Jump off cliffs (do it safely). Ask people you like out. 
 > Walk into random office buildings. Jump fences. Crash hotel pools. Whatever makes you different. 
 > Don't be so scared! Live.
 
@@ -89,4 +89,22 @@ I'm not lambasting the idea of making things to solve problems you have for your
 running a side business, but I am against the idea that feels implicit in a lot of the 
 indie hacker space: Working for a company = bad.
 
-If everybody lived the way Makebook proposes that we live, 
+If everybody lived the way Makebook proposes that we live, we'd have a bunch of singleton apps that solve small-ish problems scattered across the world. Large scale systematic change and products would be basically nonexistant.
+
+> If we can democratize access to computers and the internet (as we're doing now), people anywhere can focus on solving THEIR own problems and reap the financial (and other) rewards from doing that.
+
+The real irony here is - he's relying on large companies to lay infrastructure, build the computers, etc. that indie hackers in small countries need to startup. Solo builders are generally not laying internet in sub saharan Africa.
+
+## Tech Stack Doesn't Matter
+
+He's right about this. In the long and short of things choosing between PHP, NodeJs, etc. is pretty irrelevant. Nobody outside of the tech world really cares how your website functions. That said though, I do feel like if you're a Software Developer, you should pick a more cutting edge tech stack, or at least a tech stack that you believe will be relevant to you. If you're going to build an app, you may as well pick up some new skills along the way? Most SWD should strive to be pretty language independent anyway, so it shouldn't be a huge ask to learn some new tech.
+
+### Some Clarifications
+
+I can't quite remember if it's mentioned in Makebook, but PHP is not dead and people don't hate it? It [literally powers 80% of the internet](https://w3techs.com/technologies/overview/programming_language). Weirdly, Levels has a massive bias for PHP which makes him get really defensive when anybody mentions Node or any other language. Yeah, you can build lean, but there's nothing wrong with the new frameworks that exist. React and Angular solve real problems for people building websites at scale or with disjointed frontend teams. Nobody is saying you *have* to learn them and they seem to be pretty well respected solutions to a legitamete problem. Like the tech stack comment above, you may as well learn it just don't obsess over it (which he does acknowledge).
+
+> There's misconceptions about SQLite that it'd be slow or not scalable enough. That's bullshit. In many cases, SQLite is now faster than the filesystem (!) itself.
+
+SQLite is also not misunderstood really. It works great for his use cases because (again) he's building one off apps that run on a single node web server. You don't need a distributed database for that and that's why SQLite works for what he's suggesting. That said, most people don't have this requirement. Most companies seperate frontend and backend teams and they also need to be able to load or update a database without touching the web frontend. None of this is "misunderstood" it's just guaging the cost/benefit of using one tech against another.
+
+## Remote Work
