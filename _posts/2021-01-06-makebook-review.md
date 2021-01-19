@@ -6,88 +6,63 @@ tags: [books, review]
 author: Florian
 ---
 
-I've been locked out of my work computer for the last several hours with no end in sight, so 
-now seems like as good a time as any to review [Pieter Levels](https://twitter.com/levelsio) [makebook](https://makebook.io/).
+I've been locked out of my work computer for the last several hours with no end in sight, so now seems like as good a time as any to review [Pieter Levels](https://twitter.com/levelsio) [makebook](https://makebook.io/).
 
 I bought it on sale for $15. The TL;DR: It's a decent-ish read with a lot of flaws - 6/10.
 
 ## Levels Philosophy
 
-Levels essentially thinks that you should build, and build a lot. You shouldn't worry 
-about tech stack. Solve problems that are relevant to you as you'll be best suited to solve
-those problems. 
+Levels essentially thinks that you should build, and build a lot. You shouldn't worry about tech stack. Solve problems that are relevant to you as you'll be best suited to solve those problems. 
 
-This probably captures 90% of what the book says. If you're a Software Developer or have some
-coding experience, I wouldn't even bother buying it and just watch the [video](https://www.youtube.com/watch?v=6reLWfFNer0) he links instead.
+This probably captures 90% of what the book says. If you're a Software Developer or have some coding experience, I wouldn't even bother buying it and just watch the [video](https://www.youtube.com/watch?v=6reLWfFNer0) he links instead.
 
 ## What He Gets Right
 
-He's obviously right about building and building a lot. This isn't anything new - if you want to get better at something you have to practice it. If you want to get better 
-at launching small businesses on the internet, build a lot small businesses on the 
-internet. If you want to get better at coding, code more. Etc.
+He's obviously right about building and building a lot. This isn't anything new - if you want to get better at something you have to practice it. If you want to get better at launching small businesses on the internet, build a lot small businesses on the internet. If you want to get better at coding, code more. etc.
 
 That's not really a novel point, but it's not wrong either.
 
-The same goes for most of the other things he says in the book. Yeah, you should automate 
-your company, be ethical, etc. 
+The same goes for most of the other things he says in the book. Yeah, you should automate your company, be ethical, etc. 
 
-I'm blowing by a lot of this because (1) I don't want to spoil the book, but (2) it's really obvious stuff that doesn't require a lot of comment. I'm coming at this book 
-from the perspective of a Software Engineer who knows the importance of automation, CI, etc. 
-as we talk about it every day at work.
+I'm blowing by a lot of this because (1) I don't want to spoil the book, but (2) it's really obvious stuff that doesn't require a lot of comment. I'm coming at this book from the perspective of a Software Engineer who knows the importance of automation, CI, etc.  as we talk about it every day at work.
 
-If you're stumbling on this book as a sales person or somebody not embedded in the tech 
-community as much, I'd bump the recommendation up to a 7. The problem with the book for me 
-is how common sensical a lot of what he says is, but I could be biased by simply being 
-surrounded by that for much of my day.
+If you're stumbling on this book as a sales person or somebody not embedded in the tech community as much, I'd bump the recommendation up to a 7. The problem with the book for me is how common sensical a lot of what he says is, but I could be biased by simply being surrounded by that for much of my day.
 
 ## Thoughts on "Being Original"
 
-I see this crop up a lot and it's not unique to this book. The idea is if you want to 
-do something great you have to be original, which in this book is defined by:
+I see this crop up a lot and it's not unique to this book. The idea is if you want to do something great you have to be original, which in this book is defined by:
 
 > Get ideas from your life experience. Get outside. Become original. 
 > Do crazy stuff that you're scared of. Jump off cliffs (do it safely). Ask people you like out. 
 > Walk into random office buildings. Jump fences. Crash hotel pools. Whatever makes you different. 
 > Don't be so scared! Live.
 
-This reminds me of something I read in [Feed](https://en.wikipedia.org/wiki/Feed_\(Anderson_novel\)) years ago.
-Essentially, one of the main characters laments that even the things she considers 
-to be special experiences are fed to her by companies and set by the culture.
+This reminds me of something I read in [Feed](https://en.wikipedia.org/wiki/Feed_\(Anderson_novel\)) years ago. Essentially, one of the main characters laments that even the things she considers to be special experiences are fed to her by companies and set by the culture.
 
-I feel like that's what's happening here and something that's missed in 
-a lot of cases. Weird people do *weird* things. And I mean truly weird. My friend's 
-wife has spent the last four years studying a single ribosomal transport RNA (no 
-idea how accurate this is). That's a *weird* thing to do. 
+I feel like that's what's happening here and something that's missed in a lot of cases. Weird people do *weird* things. And I mean truly weird. My friend's wife has spent the last four years studying a single ribosomal transport RNA (no idea how accurate this is). That's a *weird* thing to do. 
 
 The people writing Open Source Software obsessively are *weird*. Most people don't want to do that and they don't. Most people are pretty down to go on dates and go skydiving.
 
 The point is - the people that spend years working on esoteric and seemingly pointless projects are truly weird. Levels is describing what an Instagram influencer thinks is weird.
 
-If you want to be truly weird, have intersecting interests, don't talk about them, and 
-probably obsess over at least one of them. Jumping into a hotel pool will not help 
-you here.
+If you want to be truly weird, have intersecting interests, don't talk about them, and probably obsess over at least one of them. Jumping into a hotel pool will not help you here.
 
 ## The Implicit Hatred of Companies
 
 I recently read ["Big Business: A Love Letter to an American Anti-Hero"](https://www.goodreads.com/book/show/39863479-big-business).
 
-I wish more people would read that book these days. Yeah, companies do a lot of bad things 
-but they're also just a collection of people. They reflect people's failings because 
-they are just groups of people.
+I wish more people would read that book these days. Yeah, companies do a lot of bad things but they're also just a collection of people. They reflect people's failings because they are just groups of people.
 
 Makebook seems to be proposing that we should all create these one-off problem solving apps and make enough money to live independently or remotely (?) I guess and never attempt to 
 solve problems which we don't understand. His response to this critique is laughably bad:
 
 > I get it. And I see the criticism there, but then, it's hard for anyone to solve a problem outside the context of their own subculture, city, country, continent, region, income class and gender, because they're not experts on it.
 
-Companies literally exist to solve this problem. I have no direct experience with insurance code billing, ER readmissions, etc. but my job at Optum allows me to improve those problems 
-by joining with others who *do* understand it but don't know how to code a solution. 
+Companies literally exist to solve this problem. I have no direct experience with insurance code billing, ER readmissions, etc. but. my job at Optum allows me to improve those problems by joining with others who *do* understand it but don't know how to code a solution. 
 
 We pool our talents and create something better than any indiviual alone.
 
-I'm not lambasting the idea of making things to solve problems you have for yourself or 
-running a side business, but I am against the idea that feels implicit in a lot of the 
-indie hacker space: Working for a company = bad.
+I'm not lambasting the idea of making things to solve problems you have for yourself or running a side business, but I am against the idea that feels implicit in a lot of the indie hacker space: Working for a company = bad.
 
 If everybody lived the way Makebook proposes that we live, we'd have a bunch of singleton apps that solve small-ish problems scattered across the world. Large scale systematic change and products would be basically nonexistant.
 
@@ -108,3 +83,11 @@ I can't quite remember if it's mentioned in Makebook, but PHP is not dead and pe
 SQLite is also not misunderstood really. It works great for his use cases because (again) he's building one off apps that run on a single node web server. You don't need a distributed database for that and that's why SQLite works for what he's suggesting. That said, most people don't have this requirement. Most companies seperate frontend and backend teams and they also need to be able to load or update a database without touching the web frontend. None of this is "misunderstood" it's just guaging the cost/benefit of using one tech against another.
 
 ## Remote Work
+
+This is only tangential to Makebook, but I do not believe remote work is the panacea that Levels makes it out to be. Yes, if you're a Software Developer/office job employee, feel free to move and leverage your flexibility. The problem is, we can't *all* live this way and pretending we can is ridiculous.
+
+The local coffee shops and neighborhoods that Levels is [so eager to find](https://hoodmaps.com/new-york-city-neighborhood-map) can only exist because somebody has put down roots in a community. They've invested time and energy and sacrificed to make the community livable and unique.  Remote workers will certainly benefit these communities with their money, but the local diner owner can't up and go remote work. And you wouldn't come and work there if it's just a generic strip mall of Starbucks and Wal-Marts.
+
+The point is - somebody is sacrificing for you to be able to live the way you want to. And that's fine, we make trade-offs all the time, but we shouldn't pretend that everybody working remotely will result in better communities. It'll probably strip local communities of people with the time, money, and flexibility to really dedicate to improving their communities.
+
+If you do become a steady earner with Makebook, I'd recommend you pick a place to live that you love and stay there. Work on improving it steadily each day and invest in the people that live there. If you wan't to travel, go on vacation regularly. It's not as glamorous as being a "digital nomad" but you'll probably be better off for it.

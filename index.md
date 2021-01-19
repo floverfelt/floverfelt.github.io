@@ -26,6 +26,7 @@ Any external sites that I find valuable I'll store at the bottom under "Links."
 * [Reflections on building gistsecrets.io](https://floverfelt.org/posts/gist-secrets-reflections)
 * [OSRS Botting Math](https://floverfelt.org/posts/osrs-botting-math)
 * [Ads in Unexpected Places](https://floverfelt.org/posts/ads)
+* [A Rambly Makebook.io Review](https://floverfelt.org/posts/makebook-review)
 
 ## Reviews
 
