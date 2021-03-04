@@ -26,7 +26,6 @@ Any external sites that I find valuable I'll store at the bottom under "Links."
 * [Reflections on building gistsecrets.io](https://floverfelt.org/posts/gist-secrets-reflections)
 * [OSRS Botting Math](https://floverfelt.org/posts/osrs-botting-math)
 * [Ads in Unexpected Places](https://floverfelt.org/posts/ads)
-* [A Rambly Makebook.io Review](https://floverfelt.org/posts/makebook-review)
 * [The World of Corporate America, February 2021](https://floverfelt.org/posts/corporate-america-february2021)
 
 ## Reviews
@@ -34,6 +33,7 @@ Any external sites that I find valuable I'll store at the bottom under "Links."
 * [Wine Reviews](https://floverfelt.org/posts/wine-reviews)
 * [Beer Reviews](https://floverfelt.org/posts/beer-reviews)
 * [Avernum 3: Ruined World Review](https://floverfelt.org/posts/avernum-3-review)
+* [A Rambly Makebook.io Review](https://floverfelt.org/posts/makebook-review)
 
 ## Links
 
