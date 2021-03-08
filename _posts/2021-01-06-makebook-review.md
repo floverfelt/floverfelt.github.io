@@ -37,9 +37,9 @@ I see this crop up a lot and it's not unique to this book. The idea is if you wa
 > Walk into random office buildings. Jump fences. Crash hotel pools. Whatever makes you different. 
 > Don't be so scared! Live.
 
-This reminds me of something I read in [Feed](https://en.wikipedia.org/wiki/Feed_\(Anderson_novel\)) years ago. Essentially, one of the main characters laments that even the things she considers to be special experiences are fed to her by companies and set by the culture.
+This reminds me of something I read in [Feed](https://en.wikipedia.org/wiki/Feed_\(Anderson_novel\)) years ago. One of the main characters laments that even the things she considers "special" experiences are fed to her by companies.
 
-I feel like that's what's happening here and something that's missed in a lot of cases. Weird people do *weird* things. And I mean truly weird. My friend's wife has spent the last four years studying a single ribosomal transport RNA (no idea how accurate this is). That's a *weird* thing to do. 
+I feel like that's what's happening here and something that's misunderstood about "weird" people. Weird people do *weird* things. And I mean truly weird. My friend's wife has spent the last four years studying a single ribosomal transport RNA sequence. That's a *weird* thing to do. 
 
 The people writing Open Source Software obsessively are *weird*. Most people don't want to do that and they don't. Most people are pretty down to go on dates and go skydiving.
 
