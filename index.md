@@ -27,6 +27,7 @@ Any external sites that I find valuable I'll store at the bottom under "Links."
 * [OSRS Botting Math](https://floverfelt.org/posts/osrs-botting-math)
 * [Ads in Unexpected Places](https://floverfelt.org/posts/ads)
 * [The World of Corporate America, February 2021](https://floverfelt.org/posts/corporate-america-february2021)
+* [Things I Wish I Knew About Software Engineering in College](https://floverfelt.org/posts/things-i-wish-i-knew-about-swe)
 
 ## Reviews
 
