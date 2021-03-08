@@ -12,21 +12,21 @@ I bought it on sale for $15. The TL;DR: It's a decent-ish read with a lot of fla
 
 ## Levels Philosophy
 
-Levels essentially thinks that you should build, and build a lot. You shouldn't worry about tech stack. Solve problems that are relevant to you as you'll be best suited to solve those problems. 
+Levels essentially thinks that you should build, and build a lot. You shouldn't worry about tech stack. You should solve problems that are relevant to you as you'll be best suited to solve those problems. 
 
 This probably captures 90% of what the book says. If you're a Software Developer or have some coding experience, I wouldn't even bother buying it and just watch the [video](https://www.youtube.com/watch?v=6reLWfFNer0) he links instead.
 
 ## What He Gets Right
 
-He's obviously right about building and building a lot. This isn't anything new - if you want to get better at something you have to practice it. If you want to get better at launching small businesses on the internet, build a lot small businesses on the internet. If you want to get better at coding, code more. etc.
+He's obviously right about building and building a lot. This isn't anything new - if you want to get better at something you have to practice it. If you want to get better at launching small businesses on the internet, build a lot small businesses on the internet. If you want to get better at coding, code more. Etc.
 
 That's not really a novel point, but it's not wrong either.
 
-The same goes for most of the other things he says in the book. Yeah, you should automate your company, be ethical, etc. 
+The same goes for most of the other things he says in the book. Yeah, you should automate your company's routine processes and be ethical.
 
-I'm blowing by a lot of this because (1) I don't want to spoil the book, but (2) it's really obvious stuff that doesn't require a lot of comment. I'm coming at this book from the perspective of a Software Engineer who knows the importance of automation, CI, etc.  as we talk about it every day at work.
+I'm blowing by a lot of this because (1) I don't want to spoil the book, but (2) it's really obvious stuff that doesn't require a lot of comment. I'm coming at this book from the perspective of a Software Engineer who knows the importance of automation, CI, and good UX as we talk about it every day at work.
 
-If you're stumbling on this book as a sales person or somebody not embedded in the tech community as much, I'd bump the recommendation up to a 7. The problem with the book for me is how common sensical a lot of what he says is, but I could be biased by simply being surrounded by that for much of my day.
+If you're stumbling on this book as a sales person or somebody not embedded in the tech community as much, I'd bump the recommendation up to a 7. The problem with the book for me is how common sensical a lot of what he says is, though I could be biased by simply being surrounded by it for much of my day.
 
 ## Thoughts on "Being Original"
 
@@ -37,9 +37,9 @@ I see this crop up a lot and it's not unique to this book. The idea is if you wa
 > Walk into random office buildings. Jump fences. Crash hotel pools. Whatever makes you different. 
 > Don't be so scared! Live.
 
-This reminds me of something I read in [Feed](https://en.wikipedia.org/wiki/Feed_\(Anderson_novel\)) years ago. One of the main characters laments that even the things she considers "special" experiences are fed to her by companies.
+This reminds me of something I read in [Feed](https://en.wikipedia.org/wiki/Feed_\(Anderson_novel\)) years ago. One of the main characters laments that even the things she considers "special" experiences are fed to her by companies. Why do we think walking on a beach together is romantic? Because that's what we see in movies.
 
-I feel like that's what's happening here and something that's misunderstood about "weird" people. Weird people do *weird* things. And I mean truly weird. My friend's wife has spent the last four years studying a single ribosomal transport RNA sequence. That's a *weird* thing to do. 
+I feel like that's what's happening here, and it's something frequently misunderstood about "weird" people. Weird people do *weird* things. And I mean truly weird. My friend's wife has spent the last four years studying a single ribosomal transport RNA sequence. That's a *weird* thing to do. 
 
 The people writing Open Source Software obsessively are *weird*. Most people don't want to do that and they don't. Most people are pretty down to go on dates and go skydiving.
 
