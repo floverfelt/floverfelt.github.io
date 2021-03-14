@@ -10,7 +10,7 @@ I thought ["Avernum 3: Ruined World"](https://en.wikipedia.org/wiki/Avernum_3:_R
 
 ## The Beginning
 
-I played the shareware version of this game as a kid when it was ["Exile 3: Ruined World"](https://en.wikipedia.org/wiki/Exile_(1995_video_game_series)), which looking back is kind of odd. I have no idea how we got ahold of this game? We had internet and a computer and all, but downloading things off websites wasn't something we did back then. Maybe it was on a demo disk? Oh well. All this to say, my experience with this game my be colored by my childhood biases.
+I played the shareware version of this game as a kid when it was ["Exile 3: Ruined World"](https://en.wikipedia.org/wiki/Exile_(1995_video_game_series)), which looking back is kind of odd. I have no idea how we got ahold of this game? We had internet and a computer and all, but downloading things off websites wasn't something we did back then. Maybe it was on a demo disk? Oh well. All this to say, my experience with this game may be colored by my childhood biases.
 
 The best part of this game is definitely the beginning. Exploring Fort Emergence and discovering the plagues was a lot of fun and it definitely brought back that sense of wonder/excitement from the original. I feel like the modern art style relies too much on drab grays, but, then again, the original was aggressively colorful so it may be an unfair comparison.
 
