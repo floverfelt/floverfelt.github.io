@@ -34,7 +34,7 @@ I didn't think too much of it at the time, but it was actually a really clever a
 
 My later CS classes (~2000+) all were designed around this premise and that was another great idea that I didn't quite grep the meaning of at the time.
 
-People don't magically change when they get a job. Money only motivates so much. 
+People don't magically change when they get a job and money only motivates so much. 
 
 That guy who showed up to group projects and never said anything? He's now you're coworker. The dude that tried to rewrite the entire project the night before it was due for no apparent reason? You're inheriting his legacy codebase! The TA who never responded to emails about a project and didn't help during office hours? They're your PM!
 
@@ -48,11 +48,11 @@ For example: People complained ad nauseum about having to learn Agile methodolog
 
 On the other hand, a lot of professors, TAs, etc. assumed we would naturally understand Git. I did not nor did my peers. This is partly because you don't really need it in small, transient group projects. It's only really valuable with large software products built across longer timespans. I did not get this and most of the adults-in-the-room assumed we got it.
 
-Likewise, learning the *nix commands was completely skipped. We'd basically just copy commands in and pray they worked without understanding what we were doing. Even basic stuff like cd and ls felt like magic in college. Maybe this was just my own shortcoming, but I wish I had spent more time understanding command line functionality given how ubiquitious it is in modern software development.
+Likewise, *nix commands were completely skipped. We'd basically just copy commands in and pray they worked without understanding what we were doing. Even basic stuff like cd and ls felt like magic in college. Maybe this was just my own shortcoming, but I wish I had spent more time understanding command line functionality given how ubiquitious it is in modern software development.
 
 Computer networking was also surprisingly useful and surprisingly downplayed during college. I took the optional "Computer Networks" (3000 something) elective for this very reason, but stuff like reserved address spaces, ports, and response codes are vital to pretty much everything you do, and yet no professor really taught it. It was more just assumed that you knew 127.0.0.1 is localhost which means your computer which means your computer is running a webserver.
 
-Finally, and most egregiously, the database design class was horribly ridiculed by everybody. This could be because the professor was... not great, but I also frequently heard the argument that "you can just learn SQL online". It is true that you can learn the SQL *syntax* online, but databases are a totally different beast that are incredibly fascinating. They're also quite literally the backbone of any application. My first day at my job we wrote SQL pipelines to migrate data into the reporting databases. It was instantly helpful and a real shame that more people didn't appreciate it at the time.
+Finally, and most egregiously, the database design class was horribly ridiculed by everybody. This could be because the professor was... not great, but I also frequently heard the argument that "you can just learn SQL online." It is true that you can learn the SQL *syntax* online, but databases are a totally different beast that are incredibly fascinating. They're also quite literally the backbone of any application. My first day at my job we wrote SQL pipelines to migrate data into the reporting databases. It was instantly helpful and a real shame that more people didn't appreciate it at the time.
 
 ## Final Thoughts
 
