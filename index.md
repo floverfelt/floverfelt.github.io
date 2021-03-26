@@ -28,6 +28,7 @@ Any external sites that I find valuable I'll store at the bottom under "Links."
 * [The World of Corporate America, February 2021](https://floverfelt.org/posts/corporate-america-february2021)
 * [Things I Wish I Knew About Software Engineering in College](https://floverfelt.org/posts/things-i-wish-i-knew-about-swe)
 * [Reflections on React](https://floverfelt.org/posts/reflections-on-react)
+* [If you want to make a web app, build a Chrome Extension first](https://floverfelt.org/posts/writing-a-chrome-extension)
 
 ## Reviews
 
