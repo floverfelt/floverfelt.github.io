@@ -34,9 +34,9 @@ Maybe I just forgot? This was far and away the biggest confusion I had starting 
 
 Basically, you start off building and the first question you want to know is: How do I make something appear on the page? 
 
-That's easy -- HTML. Everyone knows that. Ok, now how do you get the server.js file talk to the HTML.
+That's easy -- HTML. Everyone knows that. Ok, now how do you get the server.js file talk to the HTML?
 
-The jump from the first question to the second is like getting hit over the head with a mallet. This is about how my thought process went for the second question:
+The jump from the first question to the second is bizzarrely difficult. This is about how my thought process went for the second question:
 
 * Well, you use any one of these weird-other-language things called templating engines which are kinda-HTML and kinda-not.
 * They all have cutsey names like [pug](https://pugjs.org/api/getting-started.html) and [handlebars](https://handlebarsjs.com/) which somehow makes them more confusing to me?

@@ -29,6 +29,7 @@ Any external sites that I find valuable I'll store at the bottom under "Links."
 * [Things I Wish I Knew About Software Engineering in College](https://floverfelt.org/posts/things-i-wish-i-knew-about-swe)
 * [Reflections on React](https://floverfelt.org/posts/reflections-on-react)
 * [If you want to make a web app, build a Chrome Extension first](https://floverfelt.org/posts/writing-a-chrome-extension)
+* [Reflections on PHP](https://floverfelt.org/posts/php-reflections)
 
 ## Reviews
 
@@ -37,7 +38,12 @@ Any external sites that I find valuable I'll store at the bottom under "Links."
 * [Avernum 3: Ruined World Review](https://floverfelt.org/posts/avernum-3-review)
 * [A Rambly Makebook.io Review](https://floverfelt.org/posts/makebook-review)
 
-## Links
+## Links for Building
+
+* [Iconduck](https://iconduck.com/)
+* [Unsplash](https://unsplash.com/)
+* [favicon.io](https://favicon.io/)
+* [logohub.io](https://logohub.io/)
 
 ## Misc.
 
