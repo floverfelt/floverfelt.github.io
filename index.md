@@ -30,6 +30,8 @@ Any external sites that I find valuable I'll store at the bottom under "Links."
 * [Reflections on React](https://floverfelt.org/posts/reflections-on-react)
 * [If you want to make a web app, build a Chrome Extension first](https://floverfelt.org/posts/writing-a-chrome-extension)
 * [Reflections on PHP](https://floverfelt.org/posts/php-reflections)
+* [Short positions do not have infinite risk](https://floverfelt.org/short-positions-infinite-risk)
+* [The World of Corporate America, April 2021](https://floverfelt.org/posts/corporate-america-april2021)
 
 ## Reviews
 
