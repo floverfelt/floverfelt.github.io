@@ -1,9 +1,10 @@
-```layout: post
+---
+layout: post
 title: Short positions do not have infinite risk
 slug: short-positions-infinite-risk
 tags: [posts, stocks, misc]
 author: Florian
-```
+---
 
 This is completely unrelated to most of the normal things I post about here. Stocks, shorts, options, etc. have been in the news a lot due to [GME](https://www.marketwatch.com/investing/stock/gme), [COIN](https://www.marketwatch.com/investing/stock/coin), and the money-mania we're experiencing and I wanted to post my thoughts on something you hear a lot from PFAs and the news about [shorts](https://en.wikipedia.org/wiki/Short_(finance)):
 

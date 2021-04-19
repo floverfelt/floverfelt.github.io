@@ -87,5 +87,5 @@ All in all, this pretty much just leads to a vacuum of authority and accountabil
 
 All in all, I've treated the last few months like being a consultant on a short term project. I stopped asking for work unless it was explicitly assigned to me and did not raise any more issues or feedback after the (disastrous) first few weeks on the project.
 
-I don't like working this way and I think it was fairly wrong but necessary in this situation. It feels dehumanizing and in opposition to my values. This was probably why I was/am so frustrated with it all.
+I don't like working this way and I think it was wrong but necessary to do in this situation. The situation felt dehumanizing and my actions were in opposition to my values. This was probably why I was/am so frustrated with it all.
 
