@@ -40,6 +40,7 @@ Any external sites that I find valuable I'll store at the bottom under "Links."
 * [Beer Reviews](https://floverfelt.org/posts/beer-reviews)
 * [Avernum 3: Ruined World Review](https://floverfelt.org/posts/avernum-3-review)
 * [A Rambly Makebook.io Review](https://floverfelt.org/posts/makebook-review)
+* [Reviewing "The Seven Principles for Making Marriage Work"](https://floverfelt.org/posts/seven-princip-marriage)
 
 ## Links for Building
 
