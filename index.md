@@ -33,6 +33,7 @@ Any external sites that I find valuable I'll store at the bottom under "Links."
 * [Short positions do not have infinite risk](https://floverfelt.org/posts/short-positions-infinite-risk)
 * [The World of Corporate America, April 2021](https://floverfelt.org/posts/corporate-america-april2021)
 * [When is Software Good Enough?](https://floverfelt.org/posts/software-good-enough)
+* [Are software engineering "best practices" just developer preference?](https://floverfelt.org/posts/software-best-practices)
 
 ## Reviews
 
