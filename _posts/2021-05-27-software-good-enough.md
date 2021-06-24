@@ -26,9 +26,9 @@ We're basically stuck in this loop where we think "Oh, let me develop a software
 
 We don't really seem to learn from this either. We just keep designing and building products that do this.
 
-Given how much Software Engineers fetishize simplicity, we are terribly bad at implementing it. For example, while on the Link team at work, we were building out a Spring boot app.
+Given how much Software Engineers fetishize simplicity, we are terribly bad at implementing it. For example:
 
-The ask for the app was to forward messages from a frontend Salesforce (SF) application to a backend [Mirth](https://www.mirthcorp.com/community/issues/browse/MIRTH/?selectedTab=com.atlassian.jira.jira-projects-plugin:summary-panel) processor. We'd consume the message from Salesforce, log it, and then send it to Mirth.
+While on a different team at work, I was asked to build an app that forwarded messages from a frontend Salesforce (SF) application to a backend [Mirth](https://www.mirthcorp.com/community/issues/browse/MIRTH/?selectedTab=com.atlassian.jira.jira-projects-plugin:summary-panel) processor. We'd consume the message from Salesforce, log it, and then send it to Mirth.
 
 Perfectly reasonable and doable, but also completely pointless. Why doesn't the SF app just send the message directly to the processor? Who knows?
 
@@ -40,7 +40,7 @@ I guess the point of this post is to ask yourself this about new software -- whe
 
 ## Some Caveats
 
-Obvious caveat: I'm not referring to maintenance, new legitimate feature requests from users, etc. These are valid reasons to expand a piece of software. I'm referring to software companies that literally seem to do nothing except build out things that nobody ever wants in the name of infinite growth & engagement. Some examples:
+Obvious caveat: I'm not referring to maintenance, new legitimate feature requests from users, etc. These are valid reasons to expand a piece of software. I'm referring to software companies that literally seem to do nothing except build out things that nobody ever wants in the name of infinite growth, "engineering excellence", & user engagement. Some examples:
 
 - Venmo requiring you to use emoji's instead of plain-text. 
 - 90% of the features offered by Facebook. 

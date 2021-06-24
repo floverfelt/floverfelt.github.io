@@ -34,4 +34,4 @@ As I type this, I'm in a discussion about whether it's better to pass a few unne
 
 I guess this is the fun of Software Engineering - there's a million tools to choose from and you can choose whichever you prefer, but I also find this tiring at times. You never feel like you've mastered the profession because some guy can bloviate about how what you did was inferior to *some other thing he prefers for some pedantic reason*.
 
-At the end of the day, you wind up in a lot of fairly pointless arguments about tech stack and coding conventions that 99.9% of the time don't make a bit of difference.
+At the end of the day, you wind up in a lot of fairly pointless arguments about tech stack and coding conventions that 99.9% of the time don't make a bit of difference to the final product.
