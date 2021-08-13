@@ -47,7 +47,7 @@ This is true even for people you know personally! A story: when I wanted to meet
 
 What a terrible situation! Are we supposed to all message each other 8+ times to just get a response? Is that the world we want to live in? Your [time is just as valuable](https://floverfelt.org/posts/time-value) as his and you shouldn't have to virtually beg to meet for lunch.
 
-Besides, isn't this just promolgating the very problem we're trying to solve - too much e-mail? We're taking basic responsibility and time management to respond to a single e-mail and replacing it with sending 4+ e-mails and a lottery response system. Even if it works, it doesn't mean it's right.
+Besides, isn't this just promolgating the very problem we're trying to solve - too much e-mail? We're taking basic responsibility and time management to respond to a single e-mail and replacing it with sending 4+ e-mails and a lottery response system. Even if it works, it doesn't mean it's right. 
 
 ## A World of Responisbility to Respond
 
