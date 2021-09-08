@@ -36,6 +36,7 @@ Any external sites that I find valuable I'll store at the bottom under "Links."
 * [Are software engineering "best practices" just developer preference?](https://floverfelt.org/posts/software-best-practices)
 * [Observations around valuing time](https://floverfelt.org/posts/time-value)
 * [It is your responsibility to respond](https://floverfelt.org/posts/it-is-your-responsibility-to-respond)
+* [Some thoughts on healthcare tech](https://floverfelt.org/posts/some-thoughts-healthcare-tech)
 
 ## Reviews
 
