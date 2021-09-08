@@ -12,7 +12,7 @@ That said, I hope you find the content here interesting and valuable as well.
 
 ## Logistics
 
-I will add new to-do work as ["Issues" on my Github](https://github.com/floverfelt/floverfelt.github.io/issues). Feel free to contribute or add new suggestions there.
+I will add new to-do work as ["Issues" on my Github](https://github.com/floverfelt/floverfelt.github.io/issues). Feel free to contribute or add new suggestions there. 
 
 New blog posts will be in the [\_posts](https://github.com/floverfelt/floverfelt.github.io/tree/master/_posts) folder. I will post links to all of these in the "Posts" section.
 
