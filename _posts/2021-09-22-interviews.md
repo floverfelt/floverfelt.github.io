@@ -76,9 +76,9 @@ I personally don't really believe that programming language(s) matter all that m
 
 That said, I obviously have preferences.
 
-And hiring managers do too. In fact, in the morass of hiring that we've discussed above, the candidate knowing the language you are hiring for is a _huge_ plus. Again, when you hire you're essentially picking a random person who you probably kinda like but that's about it.
+And hiring managers do too. In fact, in the morass of hiring that we've discussed above, the candidate knowing the language you are hiring for is a _huge_ plus. Again, when you hire, you're essentially picking a random person who you probably kinda like but that's about it.
 
-When choosing between two random people, you're never going to give the benefit of the doubt that X person is capable of picking up a new programming language. Especially when so many developers are _so_ language preferential. No matter how much you say you can or are willing to pick up a new language, I heavily doubt you'll be given the benefit of the doubt.
+When choosing between two random people, you're never going to give the benefit of the doubt that X person is capable of picking up a new programming language. Especially when so many developers are _so_ language preferential. No matter how much you say you can or are willing to pick up a new language, I heavily doubt you'll be given that benefit of the doubt.
 
 I mean, you really mean nothing to these people and they know nothing about you. Why would they trust you?
 
@@ -88,6 +88,6 @@ In the end, hiring managers/engineers are going to hire people they like. And th
 
 There's nothing wrong with this really, but we should be up front about it.
 
-My ideal interview would be to have three interviews. One 30 minute intro/touch-base to meet and all and then two 1-2 hour meetings. In the first, the manager should deeply discuss the company's product, in the second, the manager/engineer should deeply discuss something _you've_ worked on. Avoid group work if possible.
+My ideal interview would be to have three interviews. One 30 minute intro/touch-base to meet and all and then two 1-2 hour meetings. In the first, the manager should deeply discuss the company's product. In the second, the manager/engineer should deeply discuss something _you've_ worked on. Avoid group work if possible.
 
 And then make a call one way or the other.
