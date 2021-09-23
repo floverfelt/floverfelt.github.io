@@ -48,7 +48,7 @@ None of this will come out during an interview and it's virtually impossible to 
 
 I don't want to be too hard on the manager(s) here. They probably don't want to be doing this in the first place and the engineers almost certainly don't want to be doing it. What's more though, they have no idea if you're a grifter! It's incredibly easy to give the right answers to questions or have the perfect tech stack experience and then be a royal jackass. Or, to just not do anything and get fired a few months later.
 
-The exact same arguments around you know knowing the employer _apply to you as a candidate_. You could be the engineer who ignores messages for days at a time, who's mentally checked out and just doing this for a paycheck, or who's trying to company hop to earn a few raises in short succession.
+The exact same arguments around you not knowing the employer _apply to you as a candidate_. You could be the engineer who ignores messages for days at a time, who's mentally checked out and just doing this for a paycheck, or who's trying to company hop to earn a few raises in short succession.
 
 This is the reason people hire their friends and people they've worked with before: They know what to expect. Be it good or bad, the information gap is bridged and, in a lot of ways, that's better than whatever the hell the interview process is supposed to tell you.
 
