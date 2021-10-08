@@ -38,6 +38,7 @@ Any external sites that I find valuable I'll store at the bottom under "Links."
 - [It is your responsibility to respond](https://floverfelt.org/posts/it-is-your-responsibility-to-respond)
 - [Some thoughts on healthcare tech](https://floverfelt.org/posts/some-thoughts-healthcare-tech)
 - [Thoughts on a recent tech interview](https://floverfelt.org/posts/tech-interviews)
+- [What happens when you hit the front-page of HackerNews](https://floverfelt.org/posts/hackernews)
 
 ## Reviews
 
