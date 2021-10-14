@@ -6,9 +6,9 @@ tags: [posts, work, life]
 author: Florian
 ---
 
-I was recently roped in to develop a new product that Optum is offering. It's basically a tool to map data fields to certain other data fields based on user input. Not super exciting, really, basically just a dynamic CRUD app. The app was said to have "high visibility" to Vinny, our CTO, and was being built out to serve only internal users initially. 
+I was recently roped in to develop a new product that Optum is offering. It's basically a tool to map data fields to certain other data fields based on user input. Not super exciting, really, basically just a dynamic CRUD app. The app was said to have "high visibility" to Vinny, our CTO, and was being built out to serve only internal users initially.
 
-It did *not* need to be hosted anywhere, it did *not* need any user authentication, and it did *not* need basically anything beyond raw functionality.
+It did _not_ need to be hosted anywhere, it did _not_ need any user authentication, and it did _not_ need basically anything beyond raw functionality.
 
 In short, this is something you could conceivably build in a long weekend. We just hit month three.
 
@@ -26,13 +26,13 @@ I hopped on a call with the front-end guy who pretty baldly states that he "has 
 
 I bring up the fact that we'd essentially chosen a tech-stack having no clue what the application does, and I get chastised by the manager because "we've already done that work you just weren't here." FE does not chime in this conversation, in fact, he skipped the stand-up where we were discussing this.
 
-I then had to setup a meeting with the PM to find out what the app is actually supposed to *do* so that we could choose a framework and also so that we would *actually know what the app was supposed to do*, which seems important. This is all to the chagrin of our manager who is very stressed that we won't be able to deliver an alpha/POC version of the application *by mid-December*.
+I then had to setup a meeting with the PM to find out what the app is actually supposed to _do_ so that we could choose a framework and also so that we would _actually know what the app was supposed to do_, which seems important. This is all to the chagrin of our manager who is very stressed that we won't be able to deliver an alpha/POC version of the application _by mid-December_.
 
 Out of that meeting, it turns out that there's also a UX guy on the team who built a bunch of wireframes for the app. It's also made known to us that there's an official "UI Toolkit" we need to use - basically a collection of React and Angular components we're supposed to stitch together.
 
 None of the components in the toolkit look like the wireframes and the senior FE doesn't know anything about the toolkit, despite it being an "Optum standard." We are then told by a random senior manager that "it's a requirement to use the toolkit and for everything to look like the toolkit." Which is totally different than what the wireframes look like...
 
-So, then, we have to have another meeting with the Toolkit team to understand their role in our product. They are incredibly pleasant people who basically say "Use as much of this library as you can, but don't worry about adding third party components if you need to." The UX guy then (randomly) joins our standup for the first time and pretty much says "Yeah, I don't really care if the app doesn't look like the wireframe I built" and the PM agrees. Which begs the question, *why do we have a UX engineer if we're just going to ignore what he builds?* 
+So, then, we have to have another meeting with the Toolkit team to understand their role in our product. They are incredibly pleasant people who basically say "Use as much of this library as you can, but don't worry about adding third party components if you need to." The UX guy then (randomly) joins our standup for the first time and pretty much says "Yeah, I don't really care if the app doesn't look like the wireframe I built" and the PM agrees. Which begs the question, _why do we have a UX engineer if we're just going to ignore what he builds?_
 
 In the meantime, the backend dev has chosen Kotlin to build our Lambda functions in. For no real reason other than he likes it.
 
@@ -46,9 +46,9 @@ One would think we would go through these stories and add descriptions, estimate
 
 We did not do this.
 
-Instead, we had multiple, *hour plus long meetings* where we discussed, multiple times, how to handle race conditions in our application when two users saved at the same time. This is an obviously essential question to be asked at this stage of development.
+Instead, we had multiple, _hour plus long meetings_ where we discussed, multiple times, how to handle race conditions in our application when two users saved at the same time. This is an obviously essential question to be asked at this stage of development.
 
-We then proceeded to T-shirt size all the stories. But, instead of putting them into our product management tool, the manager wrote them all in Notepad and then never shared them with the PM, so we wound up doing this exercise twice one day when the manager was on PTO. 
+We then proceeded to T-shirt size all the stories. But, instead of putting them into our product management tool, the manager wrote them all in Notepad and then never shared them with the PM, so we wound up doing this exercise twice one day when the manager was on PTO.
 
 This took about two weeks because "We need to get the estimates right to deliver the alpha by mid December." Ironically, with the amount of time we spent planning, a solo-dev probably could have just built the app.
 
@@ -62,58 +62,70 @@ Optum does a weird thing where all their headers are images and the product name
 
 At this time, a Chinese QA engineer, who randomly joins our standups from time-to-time, messages me and asks me to translate our application into English instead of whatever language it's in.
 
-Nobody seems pleased that we've at least started to build this app. The manager complains that we are too busy "putting the paint on the car instead of building the engine," despite *literally having a full time backend engineer building this app right now.* He then frequently requests that we "give updates on the app's progress" even though he would ask for these updates moments after we just gave him an update in standup.
+Nobody seems pleased that we've at least started to build this app. The manager complains that we are too busy "putting the paint on the car instead of building the engine," despite _literally having a full time backend engineer building this app right now._ He then frequently requests that we "give updates on the app's progress" even though he would ask for these updates moments after we just gave him an update in standup.
 
-In order to avoid this confusion, I decide to setup a demo site so that we're all on the same page. This was *not* budgeted for, but I figured it would save us all a lot of pain if we had a single source of truth instead of just talking about what the app.
+In order to avoid this confusion, I decide to setup a demo site so that we're all on the same page. This was _not_ budgeted for, but I figured it would save us all a lot of pain if we had a single source of truth instead of just talking about what the app should be.
 
-I then get told off multiple times for creating an S3 bucket with the wrong permissions while trying to set this up. Never mind the fact that Optum's AWS policy allows you to *create* buckets in AWS but prevents you from deleting them or modifying them. So, you're stuck with any mistakes you make while POC'ing something.
+I then get told off multiple times for creating an S3 bucket with the wrong permissions while trying to set this up. Never mind the fact that Optum's AWS policy allows you to _create_ buckets in AWS but prevents you from deleting them or modifying them. So, you're stuck with any mistakes you make while POC'ing something.
 
 At this point, development starts going semi-well. We build the first pass of the API endpoints and most of the initial core functionality. This takes ~2 weeks.
 
-The senior frontend engineer continues to not respond to messages. In a galling act, the manager asks us all to rank how much work he's doing in hours *in front of the entire team*. I thought this was totally inappropriate to do since it's a bit of a public humiliation for the guy, but I say he's *maybe* doing 1 hour of work a week.
+The senior frontend engineer continues to not respond to messages. In a galling act, the manager asks us all to rank how much work he's doing in hours _in front of the entire team_. I thought this was totally inappropriate to do since it's a bit of a public humiliation for the guy, but I say he's _maybe_ doing 1 hour of work a week.
 
 In 1-on-1's I follow up and pretty much say that if this guy doesn't want to be on our team, we don't need him. Just let him stay on his old team.
 
-Instead, the manager, who's been absurdly strict about not adding any new work to our timeline, decides to create a unit testing story for the guy to do. Thank god we are *frontend unit testing* a POC/alpha application. I get tasked with following up with this guy to "kickoff" the story.
+Instead, the manager, who's been absurdly strict about not adding any new work to our timeline, decides to create a unit testing story for the guy to do. Thank god we are _frontend unit testing_ a POC/alpha application. I get tasked with following up with this guy to "kickoff" the story.
 
-He *finally* responds and says "Yeah, this is just busy work. I've never seen unit tests be valuable to the front-end, but managers love them." So, we all had just tacitly agreed that we had invented busy work for this guy to do to justify paying him for twenty hours of work.
+He _finally_ responds and says "Yeah, this is just busy work. I've never seen unit tests be valuable to the front-end, but managers love them." So, we'd all pretty much agreed that we had invented busy work for this guy to do to justify paying him for twenty hours of work.
 
 In the meantime, the guy who commissed this entire project retired.
 
 ## The Demo
 
-There is now a fabled demo to take place to the "stakeholders." 
+There is now a fabled demo to take place to the "stakeholders."
 
 I suggest we just send out the demo site to the stakeholders before the meeting to get feedback and also give people time to use it a bit so we avoid all the stupid one-off questions like "why is this button green?" and can get into the meat of the app. There's nothing there really except a POC and any data they put in we can just nuke with one of our Lambdas and reset it all.
 
-This suggestion is met with an incredibly cold reception. The PM says that our app's use case is so confusing that nobody will understand it without our context anyway. One would think *this in and of itself is good feedback that maybe we should explain the app in the app.* But whatever.
+This suggestion is met with an incredibly cold reception. The PM says that our app's use case is so confusing that nobody will understand it without our context anyway. One would think _this in and of itself is good feedback that maybe we should explain the app in the app._ But whatever.
 
-Meanwhile, the manager and the other devloper are very upset that I built an "Add" form and that it's exposed in the app because "we don't want to demo any functionality that we haven't agreed to deliver." Despite *none* of the buttons working in the app, I have to hide the one button that we actually implemented because that's bad that we implmented it.
+Meanwhile, the manager and the other devloper are very upset that I built an "Add" form and that it's exposed in the app because "we don't want to demo any functionality that we haven't agreed to deliver." Despite _none_ of the buttons working in the app, I have to hide the one button that we actually implemented because that's bad that we implemented it.
 
 The demo goes fine in the end, nobody asks about any of the buttons.
 
 ## The Build
 
-At this point, it becomes imperative that we have a CI build which runs on each PR - it needs to build the app and run any tests we have. I picked this up. 
+At this point, it becomes imperative that we have a CI build which runs on each PR - it needs to build the app and run any tests we have. I picked this up.
 
 Since we're building a server-less Kotlin app (a bizarre decision in and of itself), we're using Gradle as the build process. When we began this project, the senior manager asked the other dev to convert the build to use Maven since that's what all our other build processes use. He just ignored this and never did it.
 
-The other dev also wrote all of our unit tests as integration tests - requiring a live database connection. I then spent a week trying to get Docker-in-Docker working on Jenkins for the mongoDB we use. I mentioned that Gradle is a little slow to build because it spins up a daemon processs first. 
+The other dev also wrote all of our unit tests as integration tests - requiring a live database connection. I then spent a week trying to get Docker-in-Docker working on Jenkins for the mongoDB we use. I mentioned that Gradle is a little slow to build because it spins up a daemon processs first.
 
 The manager loses it over this. Stating that having "30 minute build times is unnacceptable for developer productivity."
 
-At no point did Gradle *ever* take 30 minutes, nor did it *ever* take more than a few seconds to build locally. It was just when it was running on Jenkins that *the entire build* took 10 minutes - including the frontend and Sonar scanning.
+At no point did Gradle _ever_ take 30 minutes, nor did it _ever_ take more than a few seconds to build locally. It was just when it was running on Jenkins that _the entire build_ took 10 minutes - including the frontend and Sonar scanning.
 
-But I nevertheless spend 2 days back-porting the build to Maven because build times will really slow down a project! This is all happening while one of our developers has not done *anything*. What tends to slow down projects, is the project never being built.
+But I nevertheless spend 2 days back-porting the build to Maven because build times will really slow down a project! This is all happening while one of our developers has not done _anything_. What tends to slow down projects, is the project never being built.
 
 ## In the end...
 
-I want to grab everybody involved in this project and shake them and yell "this app does not exist!" It doesn't matter if we have unit test coverage on an application that nobody is using and is *scheduled to change*.
+I want to grab everybody involved in this project and shake them and yell "this app does not exist!" It doesn't matter if we have unit test coverage on an application that nobody is using and is _scheduled to change_.
 
-It doesn't matter if the build times are slow on a CI pipeline for an application that only two developers are building! 
+It doesn't matter if the build times are slow on a CI pipeline for an application that only two developers are building!
 
-It doesn't matter if people see a button that includes functionality that we haven't promised! None of this is real! 
+It doesn't matter if people see a button that includes functionality that we haven't promised! None of this is real!
 
 We need to build the app, and get it in front of people. We need to decide what it's going to do, and what we're going to optimize for.
 
 What we don't need are all these corporate ["best practices"](https://floverfelt.org/posts/software-best-practices) that are doing nothing but hindering us and wrapping us in pointless arguments about libraries, testing, and other minutiae.
+
+## What's really going on
+
+I think the real story of this app's development goes something like this:
+
+A senior manager/CTO/higher up decided we needed an internal tool to perform the data mapping and that this was "high priority." He delegated it to another manager, that manager delegated it down again.
+
+Somebody thought to assemble a small, agile team to do this, ideally with everybody co-located. It's impossible to assign all of this work to a single developer because that's "asking too much" (it's not) so they created a team. Since it's basically impossible to hire anybdy new right now, management pulled people from other projects and dumped it on an existing manager who's stretched thin as it is.
+
+That manager has no idea what this app is supposed to do, what we're attempting to do, and, *most importantly*, doesn't want to be doing this in the first place. They get asked to provide estimates, so they do. They get told to make up 20 hours of work for a developer, so they make up 20 hours of work. They get told to deliver an alpha by mid-December, so that's all their really focused on.
+
+When anything comes up, everybody falls back on the things they *do* know like arguing about unit testing and build times. There's no vision and there's no leadership, there's just terrible processes that we all abide by.
