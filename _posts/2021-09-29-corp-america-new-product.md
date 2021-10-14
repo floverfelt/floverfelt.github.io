@@ -126,6 +126,6 @@ A senior manager/CTO/higher up decided we needed an internal tool to perform the
 
 Somebody thought to assemble a small, agile team to do this, ideally with everybody co-located. It's impossible to assign all of this work to a single developer because that's "asking too much" (it's not) so they created a team. Since it's basically impossible to hire anybdy new right now, management pulled people from other projects and dumped it on an existing manager who's stretched thin as it is.
 
-That manager has no idea what this app is supposed to do, what we're attempting to do, and, *most importantly*, doesn't want to be doing this in the first place. They get asked to provide estimates, so they do. They get told to make up 20 hours of work for a developer, so they make up 20 hours of work. They get told to deliver an alpha by mid-December, so that's all their really focused on.
+That manager has no idea what this app is supposed to do, what we're attempting to do, and, _most importantly_, doesn't want to be doing this in the first place. They get asked to provide estimates, so they do. They get told to make up 20 hours of work for a developer, so they make up 20 hours of work. They get told to deliver an alpha by mid-December, so that's all they're really focused on.
 
-When anything comes up, everybody falls back on the things they *do* know like arguing about unit testing and build times. There's no vision and there's no leadership, there's just terrible processes that we all abide by.
+When anything comes up, everybody falls back on the things they _do_ know like arguing about unit testing and build times. There's no vision and there's no leadership, there's just terrible processes that we all abide by.
