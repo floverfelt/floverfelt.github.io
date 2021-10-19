@@ -18,6 +18,13 @@ New blog posts will be in the [\_posts](https://github.com/floverfelt/floverfelt
 
 Any external sites that I find valuable I'll store at the bottom under "Links."
 
+## Currently Active Side Projects
+
+- A reddit parsing tool to identify new and unique words with an emphasis on domain discovery: [WordWatch.io](http://wordwatch.io/)
+- A Chrome Extension for gratitude journaling: [Three Gratitudes](https://chrome.google.com/webstore/detail/three-gratitudes/pfjadpjmhanlgkpboobbfiecohncegfd?hl=en)
+- A Github Gist scanner which identifies plaintext passwords and secrets in public repos: [GistSecrets.io](http://gistsecrets.io/home)
+- An Open Source Maven plugin to find and replace text in files: [find-and-replace-maven-plugin](https://github.com/floverfelt/find-and-replace-maven-plugin)
+
 ## Posts
 
 - [Test post for messing around with Jekyll](https://floverfelt.org/posts/test-post-please-ignore)
