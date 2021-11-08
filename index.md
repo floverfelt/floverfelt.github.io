@@ -47,6 +47,7 @@ Any external sites that I find valuable I'll store at the bottom under "Links."
 - [Thoughts on a recent tech interview](https://floverfelt.org/posts/tech-interviews)
 - [The World of Corporate America: A New Product](https://floverfelt.org/posts/corporate-america-a-new-product)
 - [What happens when you hit the front-page of HackerNews](https://floverfelt.org/posts/hackernews)
+- [Against Chess](https://floverfelt.org/posts/against-chess)
 
 ## Reviews
 
