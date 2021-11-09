@@ -2,7 +2,7 @@
 layout: post
 title: Against Chess
 slug: against-chess
-tags: [posts, video games, life]
+tags: [posts]
 author: Florian
 ---
 
