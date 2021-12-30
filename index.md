@@ -49,6 +49,7 @@ Any external sites that I find valuable I'll store at the bottom under "Links."
 - [What happens when you hit the front-page of HackerNews](https://floverfelt.org/posts/hackernews)
 - [Against Chess](https://floverfelt.org/posts/against-chess)
 - [Is Medicare a Massive Subsidy for Insurance Companies?](https://floverfelt.org/posts/medicare-insurance-subsidy)
+- [Thoughts on Angular](https://floverfelt.org/posts/thoughts-on-angular)
 
 ## Reviews
 
