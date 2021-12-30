@@ -40,7 +40,7 @@ At the end of every chapter, the game tallies up the points and if you've done e
 
 This is all very normal.
 
-What makes this incredibly maddening is there's basically zero distinction between good and bad in this world. In the first section, there's a group of cultists who are holding a strategic crossing for ransom. They've kidnapped a little girl and her mother, are lead by a crazed man who feeds his disciples to a giant fish, and, in your first interaction with them, they ambush and attempt to kill you.
+What makes this incredibly maddening is there's basically zero distinction between good and bad in this world. In the first section, there's a group of cultists who are holding a strategic crossing for ransom. They've kidnapped a little girl and her mother, are led by a crazed man who feeds his disciples to a giant fish, and, in your first interaction with them, they ambush and attempt to kill you.
 
 These people are "good" though! Don't kill them! They are just innocents in a misguided world!
 
@@ -94,7 +94,7 @@ Artyom didn't kill somebody? Great! Did that come at the cost of a new slave bos
 
 Artyom doesn't have to separate from his friend(s)? Great! Does that come at the cost of their happiness? Who cares!
 
-It's an odd system, and I hated feeling like I'd made the "wrong" choice over and over again against such an opaque system.
+It's an odd system, and I hated feeling like I'd made the "wrong" choice over and over again against some inscrutible god.
 
 ## Final Thoughts
 

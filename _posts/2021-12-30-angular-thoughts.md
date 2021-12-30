@@ -34,11 +34,11 @@ Otherwise, I enjoyed using Angular. I would say that it was actually a lot simpl
 
 Importantly, Angular also allowed me to pretty much do whatever I wanted with the state. I could share it around components and delegate it however I pleased. It didn't force me to [think in React](https://reactjs.org/docs/thinking-in-react.html) or whatever nonsense and as a result multi-nested component trees became a lot easier to work with.
 
-I also didn't have to think about the whole [hook vs. class thing](https://reactjs.org/docs/hooks-faq.html). The Angular CLI basically tells you how to structure your component when you use `ng generate` which I liked. There's some version-by-version differences when you try to look up how to do certain things, but by and large it was pretty consistent.
+I also didn't have to think about the whole [hook vs. class thing](https://reactjs.org/docs/hooks-faq.html). The Angular CLI basically tells you how to structure your component when you use `ng generate` which I liked. There's some version-by-version differences when you try to look up how to do certain things, but by-and-large it was pretty consistent.
 
-I still think [Svelte](https://svelte.dev/) is the best developer experience I've had by far, but I was pleasantly surprised by Angular. I think it's OOTB feature set makes it a pretty compelling choice for building large scale web apps.
+I still think [Svelte](https://svelte.dev/) is the best developer experience I've had by far, but I was pleasantly surprised by Angular. I think its OOTB feature set makes it a pretty compelling choice for building large scale web apps.
 
 ## In Short
 
-My few sentence summary: Angular is the Java of the frontend. Enterprises love it because it provides rich functionality, and structure in a fairly ambiguous dev world. Developers hate it because it's verbose, generates lots of files, and isn't X technology that they would use.
+My few sentence summary: Angular is the Java of the frontend. Enterprises love it because it provides rich functionality, and structure in a fairly ambiguous development world. Developers hate it because it's verbose, generates lots of files, and isn't X technology that they would use.
 
