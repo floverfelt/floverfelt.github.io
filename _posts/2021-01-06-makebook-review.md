@@ -18,7 +18,7 @@ This probably captures 90% of what the book says. If you're a Software Developer
 
 ## What He Gets Right
 
-He's obviously right about building and building a lot. This isn't anything new - if you want to get better at something you have to practice it. If you want to get better at launching small businesses on the internet, build a lot small businesses on the internet. If you want to get better at coding, code more. Etc.
+He's obviously right about building and building a lot. This isn't anything new - if you want to get better at something you have to practice it. If you want to get better at launching small businesses on the internet, build a lot of small businesses on the internet. If you want to get better at coding, code more. Etc.
 
 That's not really a novel point, but it's not wrong either.
 
@@ -26,7 +26,7 @@ The same goes for most of the other things he says in the book. Yeah, you should
 
 I'm blowing by a lot of this because (1) I don't want to spoil the book, but (2) it's really obvious stuff that doesn't require a lot of comment. I'm coming at this book from the perspective of a Software Engineer who knows the importance of automation, CI, and good UX as we talk about it every day at work.
 
-If you're stumbling on this book as a sales person or somebody not embedded in the tech community as much, I'd bump the recommendation up to a 7. The problem with the book for me is how common sensical a lot of what he says is, though I could be biased by simply being surrounded by it for much of my day.
+If you're stumbling on this book as a sales person or somebody not embedded in the tech community as much, I'd bump the recommendation up to a 7. The problem with the book for me is how common sensical a lot of what he says is, though, again, I could be biased by simply being surrounded by it for much of my day.
 
 ## Thoughts on "Being Original"
 
@@ -53,8 +53,7 @@ I recently read ["Big Business: A Love Letter to an American Anti-Hero"](https:/
 
 I wish more people would read that book these days. Yeah, companies do a lot of bad things but they're also just a collection of people. They reflect people's failings because they are just groups of people.
 
-Makebook seems to be proposing that we should all create these one-off problem solving apps and make enough money to live independently or remotely (?) I guess and never attempt to 
-solve problems which we don't understand. His response to this critique is laughably bad:
+Makebook seems to be proposing that we should all create these one-off problem solving apps and make enough money to live independently or remotely (?) I guess and never attempt to solve problems which we don't understand. His response to this critique is laughably bad:
 
 > I get it. And I see the criticism there, but then, it's hard for anyone to solve a problem outside the context of their own subculture, city, country, continent, region, income class and gender, because they're not experts on it.
 
