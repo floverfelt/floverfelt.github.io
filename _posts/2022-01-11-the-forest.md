@@ -18,9 +18,9 @@ This took maybe 2 hours? And then I was done. My base was never naturally threat
 
 Ok, that's fine, then this must primarily be a resource collection style game where resources are difficult to come by and you have to struggle to survive. 
 
-*Nope*. Resources are trivially easy to find. There's food and water literally everywhere, even in the caves! The caves are not grand expeditions that you need to prep for extensively, for 99% of them you can just run in and eat the snacks you find scattered throughout. On the surface there's blueberries, fungi, animals, birds that land next to you - the entire game is a damn cornucopia.
+*Nope*. Resources are trivially easy to find. There's food and water literally everywhere, even in the caves! The caves are not grand expeditions that you need to prep for extensively, for 99% of them you can just run in and eat the snacks you find scattered throughout. Above ground there's blueberries, fungi, animals, birds that land next to you - the entire game is a damn cornucopia.
 
-As a result, there's no need to build a base because you can just wander aimlessly and happen upon some snacks.
+As a result, there's no need to build a base, or even scavenge, because you can just wander aimlessly and happen upon some snacks and soda.
 
 What about the cannibals? Is this a ["They Are Billions"](https://en.wikipedia.org/wiki/They_Are_Billions) type situation where you have to run-for-dear-life from hordes of savages?
 
@@ -42,4 +42,5 @@ In short, wandering around the world is a delight, and that's the one thing all 
 
 ## Conclusion
 
-The Forest throws a lot out there. It's a base builder but it's not. It's a story driven adventure, but that's optional. It's a survival game, but surviving is trivial. Each of the systems *work* and in some cases work well, but none work well *together* and that's why I put it away after I completed the main narrative.
+The Forest throws a lot out there. It's a base builder but it's not. It's a story driven adventure, but that portion's optional. It's a survival game, but surviving is trivial. Each of the systems *work* and in some cases work well, but none work well *together* and that's why I put it away after I completed the main narrative.
+
