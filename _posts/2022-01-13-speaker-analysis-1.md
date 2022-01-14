@@ -10,7 +10,7 @@ I've wanted to do this for a while: A complete analysis of [*Speaker for the Dea
 
 Bias on the table, this is of my *all time favorite* books. I maintain that it's far better and meatier than [*Ender's Game*](https://en.wikipedia.org/wiki/Ender%27s_Game), and I've read my copy well over a dozen times front to back. This is it, if you're curious:
 
-![Speaker for the dead book](/assets/default/images/speaker-for-the-dead-book.jpg)
+![Speaker for the dead book](/assets/default/images/speaker-for-the-dead-book.png)
 
 I love it. It's a fantastic story and I've yet to see any deep analysis of it beyond the basic themes of the novel or simple book reviews. This is a real shame since the book plunges in so many different directions so I figured I'd scrap together my thoughts over a series of posts.
 
