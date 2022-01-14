@@ -53,6 +53,9 @@ Any external sites that I find valuable I'll store at the bottom under "Links."
 - ["I learned more from X than I ever did from Y."](https://floverfelt.org/posts/i-learned-more-from)
 - [Dota 2](https://floverfelt.org/posts/dota-2)
 
+## *Speaker for the Dead*: A Complete Analysis
+- [Chapter 1: Pipo](https://floverfelt.org/posts/speaker-for-the-dead-analysis-1)
+
 ## Reviews
 
 - [Wine Reviews](https://floverfelt.org/posts/wine-reviews)
