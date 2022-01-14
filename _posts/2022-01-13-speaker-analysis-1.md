@@ -103,7 +103,7 @@ Ha!
 
 > More than a thousand scientists whose whole career is studying the one alien race we know, and except for what little the satellites can discover about this arboreal species, all the information my colleagues have is what Libo and I send them.
 
-What the f*** do these people do all day? They literally *cannot* intervene with the piggies! Are they just sitting and churning out papers hypothesizing about the piggies? If they are, they're *terrible* at it.
+What the f*** do these people do all day? They *literally cannot* intervene with the piggies! Are they just sitting and churning out papers hypothesizing about the piggies? If they are, they're *terrible* at it.
 
 You would think at least one of them would have noticed the change in their hunting patterns that Jane reveals later on. Or, deduced their weird reproductive strategies. In fact, it's later revealed that they *never even ask* about the xenobiology of Lusitania. Which is a massive part of anthropology! 
 
