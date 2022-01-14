@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chapter 1: Libo
+title: "Chapter 1: Libo"
 slug: speaker-for-the-dead-analysis-1
 tags: [posts, speaker for the dead analysis]
 author: Florian
