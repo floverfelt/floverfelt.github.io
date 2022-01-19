@@ -55,6 +55,7 @@ Any external sites that I find valuable I'll store at the bottom under "Links."
 
 ## *Speaker for the Dead*: A Complete Analysis
 - [Chapter 1: Pipo](https://floverfelt.org/posts/speaker-for-the-dead-analysis-1)
+- [Chapter 2: Trondheim](https://floverfelt.org/posts/speaker-for-the-dead-analysis-2)
 
 ## Reviews
 
