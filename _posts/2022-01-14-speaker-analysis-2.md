@@ -34,7 +34,7 @@ This is such a weird way to bring up this theme. As is blatantly stated in the t
 
 This is a good, normal philosophical question for Ender to bring up in a history class at a unviersity. I'm not sure why Card had to shoehorn this Calvinist\Luther plotline in here. It's incredibly strange, like I don't even know that many Calvinists *today*, much less 3000 years into the future.
 
-> it was the fashion among Calvinists in Reykajavik to deny any weight to human motive in judging the good or evil of an act. Acts are good and evil in themselves, they said; and because Speakers for the Dead held as their only doctrine that good or evil exist entirely in human motive, and not at all in the act, it made students like Styrka quite hostile to Andrew. Fortunately, Andrew did not resent it - he understood the motive behind it.
+> It was the fashion among Calvinists in Reykajavik to deny any weight to human motive in judging the good or evil of an act. Acts are good and evil in themselves, they said; and because Speakers for the Dead held as their only doctrine that good or evil exist entirely in human motive, and not at all in the act, it made students like Styrka quite hostile to Andrew. Fortunately, Andrew did not resent it - he understood the motive behind it.
 
 I can't tell if this is Card's attempt at humor, but what a smug way to put it. In fact, the Calvinists are *always* portrayed as complete morons:
 
@@ -78,5 +78,5 @@ Anyway...
 
 This chapter is bizarre and the latter half serves as mostly exposition of where Ender's been and why. I get the sense it exists for the people that wanted to read this book *without* having read *Ender's Game* and that's fine. 
 
-I just wish Card had gone about it any number of other ways. The Calvinist side-plot and Ender's "holier-than-thou" attitude towards his students just makes a necessary but perhaps dull chapter flatly *bad*.
+I just wish Card had gone about it any number of other ways. The Calvinist side-plot and Ender's "holier-than-thou" attitude towards his students makes a necessary but perhaps dull chapter flatly *bad*.
 
