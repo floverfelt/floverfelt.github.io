@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 slug: hitman-2-review
 tags:
