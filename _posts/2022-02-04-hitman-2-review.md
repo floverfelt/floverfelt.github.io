@@ -64,7 +64,7 @@ In another instance, I was able to lure my target into a bathroom and then elect
 
 I understand that these games need a way to encourage you to play them "as-intended" but the gameplay itself should encourage that not a lazily pasted "score" at the end.
 
-### Hitman 2 is Kooky
+## Hitman 2 is Kooky
 
 These games don't take themselves super seriously and that's great. We need more games like this. At various points, the badass super killer dresses up in mascot's uniforms, lingerie, a stoner dude, you get the idea.
 
