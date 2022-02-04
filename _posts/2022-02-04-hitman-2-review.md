@@ -68,6 +68,6 @@ I understand that these games need a way to encourage you to play them "as-inten
 
 These games don't take themselves super seriously and that's great. We need more games like this. At various points, the badass super killer dresses up in mascot's uniforms, lingerie, a stoner dude, you get the idea.
 
-The game really leans into it's sandboxyness and allows you to do pretty much anything, including silly stuff. At one point, my wife and I went on an axe murdering spree just because we could.
+The game really leans into its sandboxyness and allows you to do pretty much anything, including silly stuff. At one point, my wife and I went on an axe murdering spree just because we could.
 
-There's some side-splitting snippets of dialogue and hilariously bitchy targets that you get to kill. All in all, it's a fantastic gaming experience because of just how narrow it's scope is: You're a Hitman. You kill people. That's it. How can we make this interesting?
+There's some side-splitting snippets of dialogue and hilariously bitchy targets that you get to kill. All in all, it's a fantastic gaming experience because of just how narrow its scope is: You're a Hitman. You kill people. That's it. How can we make this interesting?
