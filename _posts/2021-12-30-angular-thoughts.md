@@ -43,4 +43,4 @@ I still think [Svelte](https://svelte.dev/) is the best developer experience I'v
 
 ## In Short
 
-My few sentence summary: Angular is the Java of the frontend. Enterprises love it because it provides rich functionality, and structure in a fairly ambiguous development world. Developers hate it because it's verbose, generates lots of files, and isn't X technology that they would use.
+My few sentence summary: Angular is the Java of the frontend. Enterprises love it because it provides rich functionality and structure in a fairly ambiguous development world. Developers hate it because it's verbose, generates lots of files, and isn't X technology that they would use.
