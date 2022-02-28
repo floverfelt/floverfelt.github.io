@@ -36,7 +36,7 @@ The Geth may be strange but I find it surprising that they are so blanketly *evi
 
 ### The Council is a crumbled power structure
 
-Mass Effect does a great job of reflecting reality, and The Council is a failing Rome that's doing nothing but preserving the power and wealth it already has. I'm not sure if this is the *intended* message of the game, but it was my takeaway:
+Mass Effect does a great job of reflecting reality, and the Council is a failing Rome that's doing nothing but preserving the power and wealth it already has. I'm not sure if this is the *intended* message of the game, but it was my takeaway:
 
 1. The Council are extremely hesitant to admit and share power with species who already rival them (humans in this case).
 2. They denude any species which has the potential to oppose them.
