@@ -46,7 +46,7 @@ This is all *classic* totalitarian leadership and the Council masks it by market
 
 Let's take these points beat-by-beat. Why are humans not on the Council? Is it because they are relative newcomers? That's the excuse that's given, but then why aren't the Krogan on the council? Or the Batarians? Or the Quarians? 
 
-These are all free, sentient species that deserve representation no? The Council seems to only exist to serve the interests of the races *on* the Council not represent the galactic people. At best, it's a racial oligarch.
+These are all free, sentient species that deserve representation, no? The Council seems to only exist to serve the interests of the races *on* the Council not represent the galactic people. At best, it's a racial oligarch.
 
 The Geth are a great example of this. Pause and view things from their perspective - as a fully sentient, "human" species. They've been forcibly enslaved by an alien people (the Quarians), successfully revolted and declared independence and now are... banished from peaceful space. Granted, they're a warmongering people, but still nobody seems all that interested in even attempting peaceful communication with them. No wonder they side with the Reapers!
 
