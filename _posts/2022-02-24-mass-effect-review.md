@@ -44,17 +44,17 @@ Mass Effect does a great job of reflecting reality, and The Council is a failing
 
 This is all *classic* totalitarian leadership and the Council masks it by marketing themselves as democratic, shared leadership.
 
-Let's take these points beat-by-beat. Why are humans not on the Council? Is it because they are relative newcomers? That's the excuse that's given, but then why are the Krogan not on the council? Or the Batarians? Or the Quarians? 
+Let's take these points beat-by-beat. Why are humans not on the Council? Is it because they are relative newcomers? That's the excuse that's given, but then why aren't the Krogan on the council? Or the Batarians? Or the Quarians? 
 
 These are all free, sentient species that deserve representation no? The Council seems to only exist to serve the interests of the races *on* the Council not represent the galactic people. At best, it's a racial oligarch.
 
-The Geth are a great example of this. Pause and view things from their perspective - as a fully sentient, "human" species. They've been forcibly enslaved by an alien people (the Quarians), successfully revolted and declared independence and now are... banished from peaceful space. Granted, they're a warmongering people, but still nobody seems all that interested in event attempting peaceful communication with them. No wonder they side with the Reapers!
+The Geth are a great example of this. Pause and view things from their perspective - as a fully sentient, "human" species. They've been forcibly enslaved by an alien people (the Quarians), successfully revolted and declared independence and now are... banished from peaceful space. Granted, they're a warmongering people, but still nobody seems all that interested in even attempting peaceful communication with them. No wonder they side with the Reapers!
 
-Next, look to how the Council dealt with the Krogan. They practically commit a genocide against them to prevent them from "being too aggressive." The Krogan population was expected to grow some 10x+ and was industrializing fast. Instead of welcoming them, or coming to some (literal) space sharing agreement, the Council neuters the species. You can't help but think there was a power preservation motive behind this just as much as a "wanting to maintain peace" motive.
+Next, look to how the Council dealt with the Krogan. They practically commit a genocide against them to prevent them from "being too aggressive." The Krogan population was expected to grow some 10x+ and was industrializing fast. Instead of welcoming them, or coming to some (literal) space sharing agreement, the Council neuters the species. You can't help but think there was a power preservation motive behind this not just "wanting to maintain peace."
 
 I'm not saying there's never a good justification for the use of force, but it does seem to be the default measure here, not a last resort.
 
-Finally, let's look at two of the more original species: The Volus and the Elcor. These are two *completely peaceful* species that have no representation on the council. The Volus are lauded as superb traders and the Elcor are a simple, conservative people with a notable space presence. Why are *neither* of them represented on the Council? It's because they have no combat abilities. They cannot intimidate with force and thus are not respected or given representation. The Council only respects Force.
+Finally, let's look at two of the more original species: The Volus and the Elcor. These are two *completely peaceful* species that have no representation on the council. The Volus are lauded as superb traders and the Elcor are a simple, conservative people with a notable space presence. Why are *neither* of them represented on the Council? It's because they have no combat abilities. They cannot intimidate with force and thus are not respected or given representation. The Council only respects physical power.
 
 I understand this is a combat centric video game, but Mass Effect as a game reinforces this hierarchy too. You can only recruit, and deeply interact with, the aforementioned combative species. It would have been kind of cool to have a be able to recruit an Elcor who's just a bullet shield or a Volus who throws you found credits/supplies a-la [Elizabeth in BioShock Infinite](https://en.wikipedia.org/wiki/BioShock_Infinite). I get that that's a reach for a new IP, but it does seem a shame.
 
@@ -76,14 +76,6 @@ The final boss fight with Saren was pretty challenging, though, and I felt like 
 
 ## Conclusion
 
-This is a game dipping its toes in the water. It has a lot of strengths, but it's not confident enough with itself to bend genre or player expectations in any fundamental way. As a result, you get a really great game that leaves you wanting just a bit more.
+This is a game dipping its toes in the water. It has a lot of strengths, but it's not confident enough with itself to bend the genre or player expectations in any fundamental way. As a result, you get a really great game that leaves you wanting just a bit more.
 
-Luckily, Mass Effect 2 delivers this in spades.
-
-
-
-
-
-
-
-
+Luckily, Mass Effect 2 delivers that in spades.
