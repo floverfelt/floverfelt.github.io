@@ -16,9 +16,9 @@ There's a solid (albeit typical) story about the end of the galaxy due an unknow
 
 ## The Worldbuilding
 
-Science fiction is often described as a reflection on the society it's written in, and Mass Effect leans into this premise - hard. There's a dozen (?) or so alien species and *all* of them are racist in some form or another. Turians hate humans. Humans hate Turians. The Salarians and Turians quite literally commit genocide against the Krogan. The Krogan commit genocide against the sentient Rachni.
+Science fiction is often described as a reflection on the society it's written in, and Mass Effect leans into this premise - hard. There's a dozen (?) or so alien species and *all* of them are racist in some form or another. Turians hate humans. Humans hate Turians. The Salarians and Turians quite literally commit genocide against the Krogan. The Krogan commit genocide against the sentient Rachni. Earth is a messy place and by extension so is the galaxy.
 
-Earth is a messy place and by extension so is the galaxy. The Mass Effect's universe is why you play Mass Effect. It's totally original and really well built. Each species is vying for different things and everybody occupies a morally grey space - including the humans. Are all species alike in their lust for power? Is it possible to form a multi-species democracy? Great stuff.
+In short, Mass Effect's universe is why you play Mass Effect. It's totally original and really well built. Each species is vying for different things and everybody occupies a morally grey space - including the humans. Are all species alike in their lust for power? Is it possible to form a multi-species democracy? Great stuff.
 
 ### The Turians, Asari, Quarians, and Salarians
 
@@ -26,9 +26,7 @@ These were probably the least interesting set of aliens to me. I lamented in my 
 
 They have interesting backstories and lore, but ultimately they felt like trait accentuated humanity. Asari are humans but with telekenisis! Salarians are humans but super scientific! Quarians are... jewish/gypsies?
 
-Like I said, the game makes up for this by making them *interesting* twists on humanity, but they're all too human for me.
-
-I'm optimistic that the later games will make up for this, but in the original iteration, they just feel like reskins of somewhat tired tropes.
+Like I said, the game makes up for this by making them *interesting* twists on humanity, but they're all too human for me. I'm optimistic that the later games will make up for this, but in the original iteration, they just feel like reskins of somewhat tired tropes.
 
 ### The Geth
 
@@ -40,7 +38,7 @@ The Geth may be strange but I find it surprising that they are so blanketly *evi
 
 Mass Effect does a great job of reflecting reality, and The Council is a failing Rome that's doing nothing but preserving the power and wealth it already has. I'm not sure if this is the *intended* message of the game, but it was my takeaway:
 
-1. They are extremely hesitant to admit and share power with species who already rival them (humans in this case).
+1. The Council are extremely hesitant to admit and share power with species who already rival them (humans in this case).
 2. They denude any species which has the potential to oppose them.
 3. They recongize no power other than force.
 
@@ -48,7 +46,22 @@ This is all *classic* totalitarian leadership and the Council masks it by market
 
 Let's take these points beat-by-beat. Why are humans not on the Council? Is it because they are relative newcomers? That's the excuse that's given, but then why are the Krogan not on the council? Or the Batarians? Or the Quarians? 
 
-These are all free, sentient species that deserve representation no? The Council seems to only exist to serve the interests of the races *on* the Council not represent the Galactic people.
+These are all free, sentient species that deserve representation no? The Council seems to only exist to serve the interests of the races *on* the Council not represent the galactic people. At best, it's a racial oligarch.
+
+The Geth are a great example of this. Pause and view things from their perspective - as a fully sentient, "human" species. They've been forcibly enslaved by an alien people (the Quarians), successfully revolted and declared independence and now are... banished from peaceful space. Granted, they're a warmongering people, but still nobody seems all that interested in event attempting peaceful communication with them. No wonder they side with the Reapers!
+
+Next, look to how the Council dealt with the Krogan. They practically commit a genocide against them to prevent them from "being too aggressive." The Krogan population was expected to grow some 10x+ and was industrializing fast. Instead of welcoming them, or coming to some (literal) space sharing agreement, the Council neuters the species. You can't help but think there was a power preservation motive behind this just as much as a "wanting to maintain peace" motive.
+
+I'm not saying there's never a good justification for the use of force, but it does seem to be the default measure here, not a last resort.
+
+Finally, let's look at two of the more original species: The Volus and the Elcor. These are two *completely peaceful* species that have no representation on the council. The Volus are lauded as superb traders and the Elcor are a simple, conservative people with a notable space presence. Why are *neither* of them represented on the Council? It's because they have no combat abilities. They cannot intimidate with force and thus are not respected or given representation. The Council only respects Force.
+
+I understand this is a combat centric video game, but Mass Effect as a game reinforces this hierarchy too. You can only recruit, and deeply interact with, the aforementioned combative species. It would have been kind of cool to have a be able to recruit an Elcor who's just a bullet shield or a Volus who throws you found credits/supplies a-la [Elizabeth in BioShock Infinite](https://en.wikipedia.org/wiki/BioShock_Infinite). I get that that's a reach for a new IP, but it does seem a shame.
+
+## The Mako
+
+
+
 
 
 
