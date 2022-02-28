@@ -2,8 +2,11 @@
 layout: post
 title: Thoughts on Angular
 slug: thoughts-on-angular
-tags: [posts, tech]
+tags:
+  - posts
+  - tech
 author: Florian
+published: true
 ---
 
 I've been working with Angular quite a bit recently and figured now was as good a time as any to jot down my thoughts on it.
@@ -18,7 +21,7 @@ The first thing that you always hear about Ng is that it's a full-fledged framew
 
 I suspect this is why most people *hate* Angular. [As I've written about before](https://floverfelt.org/posts/software-best-practices), developers hate phony "best practices" or imposed structures on how they write code. We've developed entire languages, frameworks, and a multitude of other tooling to basically allow any developer to choose exactly how they want to code.
 
-Developers (should) love this! It's an amazing time to build web applications. You can use plain HTML + JavaScript if you're a purist, you can use PHP if you want everything in a single file, you can use NextJs if you want the entire tech stack in cutting edge JavaScript... I could go in. The trend right now is to complain about this multifurcation of the world, but if you take a step back, it's actually a pretty amazing time to be a web developer.
+Developers (should) love this! It's an amazing time to build web applications. You can use plain HTML + JavaScript if you're a purist, you can use PHP if you want everything in a single file, you can use NextJs if you want the entire tech stack in cutting edge JavaScript... I could go on. The trend right now is to complain about this multifurcation of the world, but if you take a step back, it's actually a pretty amazing time to be a web developer.
 
 Unfortunately, the multiplicity of techs is a horrible bane on companies. You have to hire a "React" dev now, not just a generic web dev. If you do hire a React dev, they need to also know [Redux](https://redux.js.org/) and [a slew of dependent libraries](https://reactrouter.com/) that go along with it.
 
@@ -41,4 +44,3 @@ I still think [Svelte](https://svelte.dev/) is the best developer experience I'v
 ## In Short
 
 My few sentence summary: Angular is the Java of the frontend. Enterprises love it because it provides rich functionality, and structure in a fairly ambiguous development world. Developers hate it because it's verbose, generates lots of files, and isn't X technology that they would use.
-
