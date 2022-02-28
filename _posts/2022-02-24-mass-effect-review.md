@@ -60,11 +60,25 @@ I understand this is a combat centric video game, but Mass Effect as a game rein
 
 ## The Mako
 
+The Mako is a really dumb addition to this game. It's been said before and I'll echo it here. The sections where you drive across (largely) barren planets are mostly dull, trodding affairs. The Mako itself is so overpowered that you can just snipe enemies from a distance and then fly past them.
 
+To offer a slight defense, though, the Mako sections do break up the typical gameplay loop of go here, fight people, talk to people, go elsewhere. It's not great, but it's definitely something different and I appreciated the effort.
 
+I watched a [Mandalore video about Advent Rising](https://www.youtube.com/watch?v=fUk3_3eBD_M) recently that talked about how games of that era were so desperately trying to be Halo clones or Halo "killers" in some way and I wonder if Mass Effect falls into that trap. The Mako is essentially a budget Warthog and I wonder if the dev teams just threw it in there because it'd be familar to players.
 
+## The Difficulty
 
+This game has a bit of a difficulty problem, though not gamebreaking. It's just too easy. Money (credits) are trivially easy to come by and you can buy all of the best guns while *on the Normandy itself*. You don't have to explore around every nook and cranny like in Skyrim or anything - you just walk up to the store and buy the best in slot item.
 
+It's a little disappointing and takes a bit away from the whole "Space Epic" feel. Once you're geared up properly, the enemies are pretty trivial to kill, even on harder difficulties. 
+
+The final boss fight with Saren was pretty challenging, though, and I felt like the combat supported the worldbuilding and storylines solidly "OK."
+
+## Conclusion
+
+This is a game dipping its toes in the water. It has a lot of strengths, but it's not confident enough with itself to bend genre or player expectations in any fundamental way. As a result, you get a really great game that leaves you wanting just a bit more.
+
+Luckily, Mass Effect 2 delivers this in spades.
 
 
 
