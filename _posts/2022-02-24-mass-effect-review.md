@@ -18,7 +18,7 @@ There's a solid (albeit typical) story about the end of the galaxy due an unknow
 
 Science fiction is often described as a reflection on the society it's written in, and Mass Effect leans into this premise - hard. There's a dozen (?) or so alien species and *all* of them are racist in some form or another. Turians hate humans. Humans hate Turians. The Salarians and Turians quite literally commit genocide against the Krogan. The Krogan commit genocide against the sentient Rachni. Earth is a messy place and by extension so is the galaxy.
 
-In short, Mass Effect's universe is why you play Mass Effect. It's totally original and really well built. Each species is vying for different things and everybody occupies a morally grey space - including the humans. Are all species alike in their lust for power? Is it possible to form a multi-species democracy? Great stuff.
+Mass Effect's universe is why you play Mass Effect. It's totally original and really well built. Each species is vying for different things and everybody occupies a morally grey space - including the humans. Are all species alike in their lust for power? Is it possible to form a multi-species democracy? Great stuff.
 
 ### The Turians, Asari, Quarians, and Salarians
 
@@ -30,7 +30,7 @@ Like I said, the game makes up for this by making them *interesting* twists on h
 
 ### The Geth
 
-The Geth somewhat fall into the above category too, but I actually found them quite interesting. An enduring and poignant question the game asks is: When do you recognize another species as "worthy" to enter the galactic council?
+The Geth fall a little into the above category too, but I actually found them quite interesting. An enduring and poignant question the game asks is: When do you recognize another species as "worthy" to enter the galactic council?
 
 The Geth may be strange but I find it surprising that they are so blanketly *evil* in Mass Effect. The Krogans rebelled and killed countless galactic lives, but they're recognized and respected as are the Batarians who are literal slavers. I'm not saying they deserve to be on the Council or whatever, but I do find it interesting how castigated the Geth are. Which leads into a broader, more interesting conversation...
 
@@ -78,4 +78,4 @@ The final boss fight with Saren was pretty challenging, though, and I felt like 
 
 This is a game dipping its toes in the water. It has a lot of strengths, but it's not confident enough with itself to bend the genre or player expectations in any fundamental way. As a result, you get a really great game that leaves you wanting just a bit more.
 
-Luckily, Mass Effect 2 delivers that in spades.
+Luckily, Mass Effect 2 delivers in spades.
