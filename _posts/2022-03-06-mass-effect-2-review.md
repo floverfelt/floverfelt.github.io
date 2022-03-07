@@ -26,6 +26,22 @@ You're no longer a Spectre, the paragon of humanity, but instead working for an 
 
 It's a really clever twist on all the plotlines of the first ME game, forcing you to actually tackle the abundant galactic grey areas that the original introduced.
 
+## Mass Effect 2 is a Heist Movie
+
+Mass Effect 1 plays out a lot like a traditional action/adventure movie. The hero is called to action, he answers the call and, against all odds, prevails for good.
+
+Mass Effect 2 plays like a heist movie, where halfway you through you realize the heist isn't actually the point of the movie. The central conceit of the game is that you need to "build your team" to go on a mission into deep space - through the ominous Omega 4 relay. You need to assemble a squad capable of performing such a feat! It's really reminiscient of [Ocean's 11](https://en.wikipedia.org/wiki/Ocean%27s_(film_series)) at a meta level.
+
+The thing is, the actual missions beyond the Omega 4 relay are... pretty trivial? They're not all that much more difficult than any of the other missions and the final boss is laughably stupid. What's more, those missions are realtively quick? I think I completed the final sections of the game in an hour or two compared to 12+ hours prepping for them.
+
+Again, it's an interesting subversion of player expectations. The end (your typical video game climax) is not the best part of the game. The best part is the journey to get there. Which is exactly the way *a story based game* should be! 
+
+It's amazing that they not only picked up on this, but found a format (the heist) which lent itself to that kind of storytelling so well. 
+
+## 
+
+
+
 
 
 
