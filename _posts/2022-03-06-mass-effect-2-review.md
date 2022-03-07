@@ -22,7 +22,7 @@ In fact, the starkest difference between the two games to me is that the charact
 
 Mass Effect 2 inverts this and most of the other presuppositions from Mass Effect 1.
 
-You're no longer a Spectre, the paragon of humanity, but instead working for an ethically murky terrorist (?) organization? You're no longer learning about the genophage, you're deciding if you should cure it. You're no longer reporting to, well, anyone but yourself.
+You're no longer a Spectre, the paragon of humanity, but instead working for an ethically murky terrorist (?) organization? You're no longer learning about the genophage, you're deciding if you should cure it. You're no longer reporting to, well, anyone but yourself and nobody really likes you.
 
 It's a really clever twist on all the plotlines of the first ME game, forcing you to actually tackle the abundant galactic grey areas that the original introduced.
 
@@ -36,9 +36,11 @@ The thing is, the actual missions beyond the Omega 4 relay are... pretty trivial
 
 Again, it's an interesting subversion of player expectations. The end (your typical video game climax) is not the best part of the game. The best part is the journey to get there. Which is exactly the way *a story based game* should be! 
 
-It's amazing that they not only picked up on this, but found a format (the heist) which lent itself to that kind of storytelling so well. 
+It's amazing that they not only picked up on this, but found a format (the heist) which lent itself to deep personalization of side characters so naturally. It makes sense that we spend a lot of time getting to know Grunt (for example) in Mass Effect 2 since the game is based on the assumption that he's going to play an enormous role in events beyond the Omega 4 relay. The same way it makes sense that heist movies spend a lot of time focusing on "the driver" or "the hustler" - you'll know they'll be important later, even if they're a side character.
 
-## 
+## The Illusive Man
+
+Mass Effect 2, despite the praise I've heaped on it thus far, has a few eye roll moments, and 
 
 
 
