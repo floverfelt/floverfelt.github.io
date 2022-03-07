@@ -108,7 +108,7 @@ It just doesn't seem plausible that there's no middle ground between "all of us 
 
 Grunt falls into the same categoy - slightly uninteresting personal-plot, *deep* lore. I actually felt like I lost a lot of respect for the Krogan during Grunt's plotline. This may be reductive, but they were just *so dumb*.
 
-All of their rituals - the repeated decimation of their planet, the Thresher Maw coming-of-age duel, the constant aggressiveness: It *all* works against them. I find it baffling that a prosocial species does so many antisocial things. 
+All of their rituals - the repeated decimation of their planet, the Thresher Maw coming-of-age duel, the constant aggressiveness: It *all* works against them. I find it baffling that a prosocial species does so many antisocial things. How they even achieved spaceflight is beyond me.
 
 
 
