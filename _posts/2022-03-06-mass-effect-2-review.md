@@ -38,10 +38,39 @@ Again, it's an interesting subversion of player expectations. The end (your typi
 
 It's amazing that they not only picked up on this, but found a format ("the heist") which lent itself to thorough personalization of side characters so naturally. It makes sense that we spend a lot of time getting to know Grunt (for example) in Mass Effect 2 since the game is based on the assumption that he's going to play an enormous role in events beyond the Omega 4 relay. The same way it makes sense that heist movies spend a lot of time focusing on "the driver" or "the hustler" - you'll know they'll be important later, even if they're a side character.
 
-## The Illusive Man
+## The Illusive Man and the cast of characters
 
 Despite the praise I've heaped on it thus far, Mass Effect 2 has a few eye roll moments, and the Illusive Man is one of them. He is quintessential "bad" guy, Bond villian fare. He's still a fine character by all means, he just felt so one dimensional and phoned in. Even down to the name - "The Illusive Man."
 
+He's necessary to drive the plot forward, triggers a few interesting lines, but he's mostly a ben(mal)evolant father figure who bankrolls your expedition. It's dull, and he's not the only one...
+
+### Katsumi & Zaeed
+
+These are two DLC characters and they are... boring. Surprisingly so. You go to some random X coordinate, pick them up, do a 1 hour mission with them and then they pretty much just hangout on the Normandy the rest of the time. Their plotlines are fairly meh and their skillsets don't add much to the squad.
+
+It feels a bit like the devs were like "we're good at writing characters, so let's add characters as DLC!" This is a fine idea! The problem is, they weren't good at writing *these* characters and since they're "add-ons" they can't be romanced or referenced later on in the game. All of their lines after you complete their loyalty missions are scripted and Shephard can't initiate conversation with them.
+
+### Miranda
+
+Is Miranda an interesting character? It's hard to say. 
+
+On the one hand, she feels like a ham-fisted attempt to add male-gaze eye candy into a game. Oh, but they explain it in the lore so it's OK! Hardly. A lot of the game's camera work is there to accentuate her body and it gets really old, really quickly.
+
+On the other hand, she does have a fairly fleshed out backstory. It was a good twist that she *stole* her baby sister from her father and the betrayl of her oldest friend along with her guilt from her genetic alterations was a neat touch.
+
+I do still wonder if her plotline (and romance) gets a bit too much credit amongst fans just because she's attractive. Her subplot doesn't really add any dimensions to the universe of Mass Effect, it's pretty solely focused on just *her*. That said, my "character" of Shephard *would* have been much more interested in Miranda than Tali or any of the other women. He played mostly as a rogue with a few moments of deep love for humanity and Miranda matches that.
+
+### Jack
+
+Jack is a bit of a quirk. She's wildly oversexualized (like Miranda) and I expected her plotline to be more interesting than it was. In the end, she kinda just goes on the most generic revenge story possible: "I want to literally destroy my childhood!" 
+
+I talked to her a few more times onboard the Normandy and, while she does seem to heal, I didn't get the sense she grew all that much and I was ultimately a little let down. Perhaps taking her on more missions or romancing her would have changed things? I'm not sure, but her introduction and loyalty arcs were too uninteresting for me to pursue much further.
+
+### A short note on Garrus & Jacob
+
+They're... fine? Garrus is good for getting the gang back together, but he's just a solid, soldier friend and there's not much new to say.
+
+Jacob kind of fell into the same bucket, though I thought his loyalty subquest was a lot of fun. I'm a sucker for literary references.
 
 
 
