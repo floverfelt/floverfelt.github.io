@@ -40,7 +40,7 @@ It's amazing that they not only picked up on this, but found a format ("the heis
 
 ## The Illusive Man
 
-Mass Effect 2, despite the praise I've heaped on it thus far, has a few eye roll moments, and 
+Despite the praise I've heaped on it thus far, Mass Effect 2 has a few eye roll moments, and the Illusive Man is one of them. He is quintessential "bad" guy, Bond villian fare. He's still a fine character by all means, he just felt so one dimensional and phoned in. Even down to the name - "The Illusive Man."
 
 
 
