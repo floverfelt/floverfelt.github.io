@@ -102,12 +102,11 @@ Tali is the inverse of the Miranda, Jack, Jacob lot. Her personal story isn't al
 
 I still have some Quarian quibbles, though. First, why have they not settled on a new world? 300 years is a long time, and they've been wandering so long that they've literally lost their immune systems. You'd think they'd call it quits and give up on their homeworld or, at the very least, start setting up a variety of colonies on different worlds.
 
-It just doesn't seem plausible that there's no middle ground between "all of us settling together on one new world" and "all out war with the Geth."
+It just doesn't seem plausible that there's no middle ground between "all of us settling together on one new world" and "all out war with the Geth for our homeworld."
 
 ### Grunt
 
-Grunt falls into the same categoy - slightly uninteresting personal-plot, *deep* lore. I actually felt like I lost a lot of respect for the Krogan during Grunt's 
-
+Grunt falls into the same categoy - slightly uninteresting personal-plot, *deep* lore. I actually felt like I lost a lot of respect for the Krogan during Grunt's plotline. This may be reductive, but they were just *so dumb*.
 
 
 
