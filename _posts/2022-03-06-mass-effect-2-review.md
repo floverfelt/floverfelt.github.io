@@ -38,7 +38,7 @@ Again, it's an interesting subversion of player expectations. The end (your typi
 
 It's amazing that they not only picked up on this, but found a format ("the heist") which lent itself to thorough personalization of side characters so naturally. It makes sense that we spend a lot of time getting to know Grunt (for example) in Mass Effect 2 since the game is based on the assumption that he's going to play an enormous role in events beyond the Omega 4 relay. The same way it makes sense that heist movies spend a lot of time focusing on "the driver" or "the hustler" - you'll know they'll be important later, even if they're a side character.
 
-## The Illusive Man and the cast of characters
+## The Illusive Man and the Cast of Characters
 
 Despite the praise I've heaped on it thus far, Mass Effect 2 has a few eye roll moments, and the Illusive Man is one of them. He is quintessential "bad" guy, Bond villian fare. He's still a fine character by all means, he just felt so one dimensional and phoned in. Even down to the name - "The Illusive Man."
 
@@ -68,9 +68,46 @@ I talked to her a few more times onboard the Normandy and, while she does seem t
 
 ### A short note on Garrus & Jacob
 
-They're... fine? Garrus is good for getting the gang back together, but he's just a solid, soldier friend and there's not much new to say.
+They're... fine? Garrus is good for getting the gang back together, but he's just a solid friend and there's not much new to say.
 
-Jacob kind of fell into the same bucket, though I thought his loyalty subquest was a lot of fun. I'm a sucker for literary references.
+Jacob kind of fell into the same bucket, too, but I thought his loyalty subquest was a lot of fun. I'm a real sucker for literary references, though, and the *Lord of the Flies* in space got me.
+
+## The Rest of the Crew
+
+Tali, Mordin, Grunt, Samara, Legion, and Thane are where the game hits its characterization stride.
+
+Unlike Jack and the others, these squadmates' loyalty missions perform the dual function of *exploring the universe of Mass Effect.* 
+
+Ultimately, Grunt becoming a Krogan isn't just about Grunt - it's about revealing the Krogan way of life. For Thane, it's about his son, but also introducing the Drell and adding depth to the Hanarr. With Tali we get to see the Migrant Fleet, with Legion the inner workings of the Geth, Samara the Asari.
+
+Not *only* do these characters have intriguing backstories with ethical quandries therein, they *also* add a lot of depth to the lore. They're not just great stories in their own rite, they tie into the larger worldbuilding.
+
+I don't want to rag on the rest of the crew, here, they *are* well written and have engaging loyalty quests with lots of personal growth. But, what elevates a good sub-plotline to great is when it ties into the greater narrative arc of Mass Effect 2. 
+
+### Mordin
+
+Mordin is brilliant, and far deeper than I remember. He's a utilitarian through and through, but he gets a lot of depth throughout and his reckoning over his role in the genophage felt genuine and well told.
+
+I still can't quite decide how to feel about Mordin. On the one hand, he participated in a genocidal act: full stop. However, he is a brilliantly written character to reflect on truly deep philosophical issues, most notably because he's really funny so you don't see always it coming.
+
+Does a single Salarian bear responsibility for the decisions of a group? Was the genophage right? Was continuing it right? Is it murder/wrong if you simply prevent life from happening instead of killing it after it already exists? Is it right to use 
+
+This is *fascinating* stuff and Mordin is such a great character to deliver it. His rapid, scientific way of speech lulls you into thinking he's thought about his actions more than he has. It's obvious he *hasn't* or else he wouldn't have been conflicted over saving the genophage data in his loyalty mission.
+
+He's also genuinely funny, giving Shephard sex advice at one point, and being the most oddball of Shephard's squad. I didn't expect him to pose such deliberate questions, and that was clever writing by the developers.
+
+### Tali
+
+Tali is the inverse of the Miranda, Jack, Jacob lot. Her personal story isn't all that interesting, but the lore wrapped around it is great. I *really* wanted to know more about the Migrant Fleet in Mass Effect 1, and her little trial sequence did a beautiful job illustrating Quarian culture.
+
+I still have some Quarian quibbles, though. First, why have they not settled on a new world? 300 years is a long time, and they've been wandering so long that they've literally lost their immune systems. You'd think they'd call it quits and give up on their homeworld or, at the very least, start setting up a variety of colonies on different worlds.
+
+It just doesn't seem plausible that there's no middle ground between "all of us settling together on one new world" and "all out war with the Geth."
+
+### Grunt
+
+Grunt falls into the same categoy - slightly uninteresting personal-plot, *deep* lore. I actually felt like I lost a lot of respect for the Krogan during Grunt's 
+
 
 
 
