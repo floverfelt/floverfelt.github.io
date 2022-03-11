@@ -76,7 +76,7 @@ Jacob kind of fell into the same bucket, too, but I thought his loyalty subquest
 
 Tali, Mordin, Grunt, Samara, Legion, and Thane are where the game hits its characterization stride.
 
-Unlike Jack and the others, these squadmates' loyalty missions perform the dual function of *exploring the universe of Mass Effect.* 
+Unlike Jack and the others, these squadmates' loyalty missions perform the secondary function of *exploring the universe of Mass Effect.* 
 
 Ultimately, Grunt becoming a Krogan isn't just about Grunt - it's about revealing the Krogan way of life. For Thane, it's about his son, but also introducing the Drell and adding depth to the Hanarr. With Tali we get to see the Migrant Fleet, with Legion the inner workings of the Geth, Samara the Asari.
 
@@ -112,19 +112,42 @@ All of their rituals - the repeated decimation of their planet, the Thresher Maw
 
 They still don't deserve the genophage, but it does put it in some amount of context compared to ME1.
 
+### Samara\Morinth
 
+Didn't find her character all that engaing, but the Asari lore was fairly interesting? Of the alien compatriots, she's probably the least interesting and felt a bit like Zaeed and Katsumi - a bit tacked on.
 
+### Legion
 
+Legion is a *terrific* addition to this game. One of my biggest laments from the [first game](https://floverfelt.org/posts/mass-effect-review) was how poorly characterized the Geth are as a species. They have a religion! They have a distinct culture! And yet they're treated like the Collectors or the Reapers. It seemed like a shame.
 
+Mass Effect 2 actually deals with this, which I found pleasantly surprising. The Geth are actually a deeply divided "people," some of which side with the reapers. This is who attacks you in ME1. The dialogue and quandry of Legion was pretty standard sci-fi, AI stuff, but I like that Mass Effect actually treated the Geth as real people instead of just straight "bad guys."
 
+### Thane
 
+Thane tries to be a little more interesting than he actually is. His character is totally badass, but in the end he's a fairly archetypal philosopher assasain. 
 
+The Drell as a new species are great, though. Not only do they have an odd symbiosis with the most jokey species from the first game, the Hanarr, they are oddly tragic. I saw them as a representation of humanity gone wrong - destroyed by their own success (overpopulation) and ultitametely rescued through a deus ex machina beyond their control. They destroyed themselves but can't find any solace in their continued survival since they played no part in it.
 
+I also like their symbiotic relationship with the Hanarr. Too many of the alien species are humans in one form or another. The Drell are unique in being wedded to another species so tightly. It was a refreshing change of pace.
 
+## The Morality System
 
+Mass Effect 2 does morality systems right. At any given time, you can be either Paragon or Renegade and you can gain points in one without losing them from another. It made my character a lot more fleshed out since he could actually behave differently in different situations instead of being slotted onto the "good" path and the "bad" path from the beginning.
 
+You can actually, sort of, role play as Shephard instead of min/maxing your character all the time.
 
+## Drawbacks
 
+This game is held back by a few sci-fi kitschs that were a bit too much: Notably - the ending.
 
+Fighting a giant cybernetic human head was really, really dumb. Like profoundly dumb. The Collectors were interesting, the fact that they were repurposed Protheans was great, and even the final mission was fairly fun. Up until you essentially fight a repurposed [god warrior](https://ghibli.fandom.com/wiki/God_Warrior) who's purpose is to...? 
 
+What really kills me about this, is that *there are no stakes* to killing the thing since the Reapers show up literally moments later in the game's finale. Why do the Reapers want a giant mechanical human? They *already have giant mechanical things that are great at killing*! Why did we bother stopping the Collectors if the Reapers just pop in anyway?
 
+I'm hoping that ME3 (which I haven't played) makes the ending a bit more sensical.
+
+The second real con for me was one that's been, admittedly, beaten to death a bit: The conversation wheel. It's pretty frustrating to intend one thing, and then get something totally different or totally tonally different. That said, it's not as bad as most people make it out to be. 
+
+## Final Thoughts
+
+In short, the analogy of this game to a heist movie is pretty apt. Don't go into it expecting the *heist* itself to be all that interesting, though, instead dive deep into the side characters and the lore of the world.
