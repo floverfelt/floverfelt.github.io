@@ -68,6 +68,7 @@ Any external sites that I find valuable I'll store at the bottom under "Links."
 - [The Forest Review](https://floverfelt.org/posts/the-forest-review)
 - [Hitman 2 Review](https://floverfelt.org/posts/hitman-2-review)
 - [Mass Effect Review](https://floverfelt.org/posts/mass-effect-review)
+- [Mass Effect 2 Review](https://floverfelt.org/posts/mass-effect-2-review)
 
 ## Links for Building
 
