@@ -30,9 +30,9 @@ It's a really clever twist on all the plotlines of the first ME game, forcing yo
 
 Mass Effect 1 plays out a lot like a traditional action/adventure movie. The hero is called to action, he answers the call and, against all odds, prevails for good.
 
-Mass Effect 2 plays like a heist movie, where halfway you through you realize the heist isn't actually the point of the movie. The central conceit of the game is that you need to "build your team" to go on a mission into deep space - through the ominous Omega 4 relay. You need to assemble a squad capable of performing such a feat! It's really reminiscient of [Ocean's 11](https://en.wikipedia.org/wiki/Ocean%27s_(film_series)) at a meta level.
+Mass Effect 2 plays like a heist movie where halfway through you realize the heist isn't actually the point of the movie. The game's central conceit is that you need to "build a team" to go on a mission into deep space - through the ominous Omega 4 relay. Only you can assemble a squad capable of performing such a feat! It's really reminiscient of [Ocean's 11](https://en.wikipedia.org/wiki/Ocean%27s_(film_series)) at a meta level.
 
-The thing is, the actual missions beyond the Omega 4 relay are... pretty trivial? They're not all that much more difficult than any of the other missions and the final boss is laughably stupid. What's more, those missions are realtively quick? I think I completed the final sections of the game in an hour or two compared to 12+ hours prepping for them.
+The thing is, the actual missions beyond the Omega 4 relay are... pretty trivial? They're not all that much more difficult than any of the other missions and the final boss is laughably stupid. What's more, those missions are relatively quick? I think I completed the final sections of the game in an hour or two compared to 12+ hours prepping for them.
 
 Again, it's an interesting subversion of player expectations. The end (your typical video game climax) is not the best part of the game. The best part is the journey to get there. Which is exactly the way *a story based game* should be! 
 
@@ -88,9 +88,9 @@ I don't want to rag on the rest of the crew, here, they *are* well written and h
 
 Mordin is brilliant, and far deeper than I remember. He's a utilitarian through and through, but he gets a lot of depth throughout and his reckoning over his role in the genophage felt genuine and well told.
 
-I still can't quite decide how to feel about Mordin. On the one hand, he participated in a genocidal act: full stop. However, he is a brilliantly written character to reflect on truly deep philosophical issues, most notably because he's really funny so you don't see always it coming.
+I still can't quite decide how to feel about Mordin. On the one hand, he participated in a genocidal act: full stop. However, he is a brilliantly written character to reflect on deep philosophical issues, most notably because he's really funny so you don't see always it coming.
 
-Does a single Salarian bear responsibility for the decisions of a group? Was the genophage right? Was continuing it right? Is it murder/wrong if you simply prevent life from happening instead of killing it after it already exists? Is it right to use 
+Does a single Salarian bear responsibility for the decisions of a group? Was the genophage right? Was continuing it right? Is it murder/wrong if you simply prevent life from happening instead of killing it after it already exists?
 
 This is *fascinating* stuff and Mordin is such a great character to deliver it. His rapid, scientific way of speech lulls you into thinking he's thought about his actions more than he has. It's obvious he *hasn't* or else he wouldn't have been conflicted over saving the genophage data in his loyalty mission.
 
@@ -120,13 +120,13 @@ Didn't find her character all that engaing, but the Asari lore was fairly intere
 
 Legion is a *terrific* addition to this game. One of my biggest laments from the [first game](https://floverfelt.org/posts/mass-effect-review) was how poorly characterized the Geth are as a species. They have a religion! They have a distinct culture! And yet they're treated like the Collectors or the Reapers. It seemed like a shame.
 
-Mass Effect 2 actually deals with this, which I found pleasantly surprising. The Geth are actually a deeply divided "people," some of which side with the reapers. This is who attacks you in ME1. The dialogue and quandry of Legion was pretty standard sci-fi, AI stuff, but I like that Mass Effect actually treated the Geth as real people instead of just straight "bad guys."
+Mass Effect 2 actually deals with this, which I found pleasantly surprising. The Geth are actually a deeply divided "people," some of which side with the Reapers. This is who attacks you in ME1. The dialogue and quandry of Legion was pretty standard sci-fi, AI stuff, but I like that Mass Effect actually treated the Geth as real people instead of just straight "bad guys."
 
 ### Thane
 
 Thane tries to be a little more interesting than he actually is. His character is totally badass, but in the end he's a fairly archetypal philosopher assasain. 
 
-The Drell as a new species are great, though. Not only do they have an odd symbiosis with the most jokey species from the first game, the Hanarr, they are oddly tragic. I saw them as a representation of humanity gone wrong - destroyed by their own success (overpopulation) and ultitametely rescued through a deus ex machina beyond their control. They destroyed themselves but can't find any solace in their continued survival since they played no part in it.
+The Drell as a new species are great, though. Not only do they have an odd symbiosis with the most jokey species from the first game, the Hanarr, they are oddly tragic. I saw them as a representation of humanity gone wrong - destroyed by their own success (overpopulation) and ultimately rescued through a deus ex machina beyond their control. They destroyed themselves but can't find any solace in their continued survival since they played no part in it.
 
 I also like their symbiotic relationship with the Hanarr. Too many of the alien species are humans in one form or another. The Drell are unique in being wedded to another species so tightly. It was a refreshing change of pace.
 
