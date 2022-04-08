@@ -22,7 +22,7 @@ So while you're ostensibly "part of the Alliance" in Mass Effect 1, its not real
 
 Mass Effect 3 is a military game. You're not a lone wanderer amidst the stars. You're an Alliance commander representing Earth's fleet.
 
-This was a pretty jarring change for me. The game confidently acts like this is the logical outcome after ME2 - back to business on Earth. But it's not! At all! Shephard could have been sympathetic with Cerberus and allied with the Illusive man. He could've turned his back on the Alliance altogether and joined up with the Council Spectres. Besides, if it was so easy to just nope out of the Illusive Man's contract, why didn't Shephard do it sooner?
+This was a pretty jarring change for me. The game confidently acts like this is the logical outcome after ME2 - back to business on Earth. But it's not! At all! Shephard could have been sympathetic with Cerberus and allied with the Illusive Man. He could've turned his back on the Alliance altogether and joined up with the Council Spectres. Besides, if it was so easy to just nope out of the Illusive Man's contract, why didn't Shephard do it sooner?
 
 It's so odd that the game essentially resets to the beginning of Mass Effect 1 with basically zero transition. That said, it makes a lot more sense after you realize that...
 
@@ -42,7 +42,7 @@ The main plot of the game I could not track with. The Reapers are shown, repeate
 
 But, early-on in the game, humans discover the Crucible which can completely obliterate the Reapers. I was hoping the game would play out similar to Mass Effect 1 - you go on a galaxy hopping expedition to recover pieces of the Crucbile, assemble it, and defeat the Reapers. That would have made sense.
 
-But you don't! Instead, you collect a bunch of "war assets" to fight the Reapers with. Such indomitable forces as a military news reporter and some mercenary ships. Why bother! That's going to do *nothing* against this force. You're better off investing your time and energy in building and assembling the Crucible as quickly as possible. So, that's what I did and then missed half the game since what you're "supposed" to be doing is building up a literal warchest of supplies.
+But you don't! Instead, you collect a bunch of "war assets" to fight the Reapers with. You collect such indomitable forces as a military news reporter and some mercenary ships. Why bother! That's going to do *nothing* against this force. You're better off investing your time and energy in building and assembling the Crucible as quickly as possible. So, that's what I did and then missed half the game since what you're "supposed" to be doing is building up a literal warchest of supplies.
 
 The entire premise of the war assets system only makes sense within the context of the game's ending. You need the fleets & soldiers as a distraction to prevent the Crucible from being destroyed. But, on first playthrough, you don't know that and it feels kinda silly to be running errands to get mercenaries to fight for you when the most promising solution is *right there*.
 
@@ -52,7 +52,7 @@ Akin to the central plot, the plotline of Cerberus really frustrated me. The lon
 
 This is so much less interesting than the way they were portrayed in Mass Effect 2. In ME2, they're a shadowy semi-terrorist organization who, in some ways, try to do good in the galaxy. They have a real utilitarian, "ends justify the means" attitude, but they aren't wholesale evil. Many of the Illusive Man's actions are semi-altruistic in ME2 - reviving Shephard, saving the colonies from the Collectors, trying to establish communication with the Geth (DLC).
 
-This almost completely rewritten in Mass Effect 3, largely for the worse. Cerberus is evil now. They indoctrinate their soldiers. They're harvesting refugees. They're trying to control the Reapers. They've become the Nazi archetypes of this universe, and it's frustratingly simplistic.
+This is almost completely rewritten in Mass Effect 3, largely for the worse. Cerberus is evil now. They indoctrinate their soldiers. They're harvesting refugees. They're trying to control the Reapers. They've become the Nazi archetypes of this universe, and it's frustratingly simplistic.
 
 Oh, but what about all the characters you liked from Cerberus - Miranda? Don't worry, they left. Wait *what*? Aren't they the die-hard Cerberus loyalists in ME2? And they just left? It's a little too convenient.
 
@@ -86,5 +86,5 @@ Is your main character dying a cliche? Sure, but again...
 
 In my [Mass Effect 2](https://floverfelt.org/posts/mass-effect-2-review) review, I wrote about how it's like a heist movie where you don't really care about the heist. I think that generalization carries throughout the entire series - these games have *never*, really, been about the Reapers and the threat they pose to civilization. It's been about the characters, the world-building, the dilemmas and moral choices, and sure the Reapers are a part of that but it's not why you show up.
 
-The problem with Mass Effect 3, though, is that the plot *forces* the Reapers to become your focus, and you're left with a kind of hollow shell of the previous two games.
+The problem with Mass Effect 3, though, is that the plot *forces* the Reapers to become your sole focus, and you're left with a hollow shell of the previous two games.
 
