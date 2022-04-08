@@ -28,7 +28,7 @@ It's so odd that the game essentially resets to the beginning of Mass Effect 1 w
 
 ## Mass Effect 3 is a War Game
 
-There's a lot of fuss made in game criticism over how a game's gameplay relates to its underlying themes. Say what you want about ME3, but it does an *great* job of relating the gameplay to the world its set in. This is a universe at war, and the game *feels* like it. 
+There's a lot of fuss made in game criticism over how a game's gameplay relates to its underlying themes. Say what you want about ME3, but it does an *great* job of relating the gameplay to the world it's set in. This is a universe at war, and the game *feels* like it. 
 
 The combat has been revamped and upgraded a lot, the pace of everything is much faster, and the dialogue is shorter and snappier. Some of this has been attributed to rushed development, but it also fits here. This is a game about wartime. Things are meant to be a little more brusque. The combat and fighting *should* be the focus of a game about an inter-galactic war.
 
@@ -40,12 +40,17 @@ As a result, swaths of the game are just... dull. I didn't really care about col
 
 The main plot of the game I could not track with. The Reapers are shown, repeatedly, to be damn near unkillable. It takes the *entire* human fleet to destroy *one* Reaper in the first game. Thousands of these things are attacking Earth and millions (?) more are attacking the rest of the galaxy.
 
-But, early-on in the game, humans discover the Crucible which can completely obliterate the Reapers. I was hoping the game would play out similar to Mass Effect 1 - you go on a galaxy hopping expedition to recover pieces of the Crucbile, assemble it, and win. That would have made sense.
+But, early-on in the game, humans discover the Crucible which can completely obliterate the Reapers. I was hoping the game would play out similar to Mass Effect 1 - you go on a galaxy hopping expedition to recover pieces of the Crucbile, assemble it, and defeat the Reapers. That would have made sense.
 
-But you don't! Instead, you collect a bunch of "war assets" to fight the Reapers with. Such indomitable forces as a military news reporter and some mercenary ships. Why bother! That's going to do *nothing* against this force. You're better off investing your time and energy in building and assembling the Crucible as quickly as possible. So, that's what I did and then missed half the game since what you're "supposed" to be doing is building up a literal warchest.
+But you don't! Instead, you collect a bunch of "war assets" to fight the Reapers with. Such indomitable forces as a military news reporter and some mercenary ships. Why bother! That's going to do *nothing* against this force. You're better off investing your time and energy in building and assembling the Crucible as quickly as possible. So, that's what I did and then missed half the game since what you're "supposed" to be doing is building up a literal warchest of supplies.
 
-The entire premise of the war assets system only makes sense within the context of the game's ending. You need the fleets & soldiers as a distraction to prevent the Crucible from being destroyed, but that makes no sense on the first play of the game.
+The entire premise of the war assets system only makes sense within the context of the game's ending. You need the fleets & soldiers as a distraction to prevent the Crucible from being destroyed. But, on first playthrough, you don't know that and it feels kinda silly to be running errands to get mercenaries to fight for you when the most promising solution is *right there*.
 
+## Cerberus
+
+Akin to the central plot, the plotline of Cerberus really frustrated me. The long-and-short of it is: They're evil now!
+
+This is so much less interesting than the way they were portrayed in Mass Effect 2. In ME2, they're a shadowy semi-terrorist organization who, in some ways, try to do good in the galaxy. They have a real utilitarian, "ends justify the means" attitude, but they aren't wholesale evil. 
 
 
 
