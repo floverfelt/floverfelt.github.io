@@ -84,6 +84,9 @@ Is your main character dying a cliche? Sure, but again...
 
 ## This Series Has Never Been About the Plot
 
+In my [Mass Effect 2](https://floverfelt.org/posts/mass-effect-2-review) review, I wrote about how it's like a heist movie where you don't really care about the heist. I think that generalization carries throughout the entire series - these games have *never*, really, been about the Reapers and the threat they pose to civilization. It's been about the characters, the world-building, the dilemmas and moral choices, and sure the Reapers are a part of that but it's not why you show up.
+
+The problem with Mass Effect 3, though, is that the plot *forces* the Reapers to become your focus, and you're left with a kind of hollow shell of the previous two games.
 
 
 
