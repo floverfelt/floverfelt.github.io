@@ -88,31 +88,3 @@ In my [Mass Effect 2](https://floverfelt.org/posts/mass-effect-2-review) review,
 
 The problem with Mass Effect 3, though, is that the plot *forces* the Reapers to become your focus, and you're left with a kind of hollow shell of the previous two games.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
