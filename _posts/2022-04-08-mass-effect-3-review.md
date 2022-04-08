@@ -54,7 +54,7 @@ This is so much less interesting than the way they were portrayed in Mass Effect
 
 This almost completely rewritten in Mass Effect 3, largely for the worse. Cerberus is evil now. They indoctrinate their soldiers. They're harvesting refugees. They're trying to control the Reapers. They've become the Nazi archetypes of this universe, and it's frustratingly simplistic.
 
-Oh, but what about all the characters you liked from Cerberus - Miranda, Jacob? Don't worry they left. Wait *what*? Aren't they the die-hard Cerberus loyalists in ME2? And they just left? It's a little too convenient. 
+Oh, but what about all the characters you liked from Cerberus - Miranda, Jacob? Don't worry they left. Wait *what*? Aren't they the die-hard Cerberus loyalists in ME2? And they just left? It's a little too convenient.
 
 You'll notice, ME2 did *not* do this. Kaiden meets up with Shephard and is like "Oh you're working with Cerberus? Well, I'm not, good luck." They didn't off-screen rewrite his entire morality and character arc just so that he could be a companion with your crew.
 
