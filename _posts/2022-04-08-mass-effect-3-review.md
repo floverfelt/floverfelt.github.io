@@ -30,9 +30,9 @@ It's so odd that the game essentially resets to the beginning of Mass Effect 1 w
 
 There's a lot of fuss made in game criticism over how a game's gameplay relates to its underlying themes. Say what you want about ME3, but it does an *great* job of relating the gameplay to the world its set in. This is a universe at war, and the game *feels* like it. 
 
-The combat has been revamped and upgraded a lot, the pace of everything is much faster, dialogue is shorter and snappier. Some of this has been attributed to rushed development, but it also works for me. This is a game about wartime. Things are meant to be a little more brusque. The combat and fighting *should* be the focus of a game about an inter-galactic war.
+The combat has been revamped and upgraded a lot, the pace of everything is much faster, and the dialogue is shorter and snappier. Some of this has been attributed to rushed development, but it also fits here. This is a game about wartime. Things are meant to be a little more brusque. The combat and fighting *should* be the focus of a game about an inter-galactic war.
 
-The logic is sound and all, but Mass Effect 3 can't *quite* pull it off. 
+The logic is sound and I agree with it, but Mass Effect 3 can't *quite* pull it off. The tired trope of space Marine fighting for Earth is tired here too. Admiral Hackett is a dull character, and, frankly, so is Captain Anderson. The combat is much improved, but it's still pretty lackluster compared to an FPS or 3rd person shooter.
 
 
 
