@@ -22,7 +22,7 @@ So while you're ostensibly "part of the Alliance" in Mass Effect 1, its not real
 
 Mass Effect 3 is a military game. You're not a lone wanderer amidst the stars. You're an Alliance commander representing Earth's fleet.
 
-This was a *hugely* jarring change for me. The game acts like this is the logical outcome after ME2 - back to business on Earth. But it's not! At all! Shephard could have been sympathetic with Cerberus and allied with the Illusive man. He could've turned his back on the Alliance altogether and joined up with the Council Spectres. Besides, if it was so easy to just nope out of the Illusive Man's contract, why didn't Shephard do it sooner?
+This was a pretty jarring change for me. The game confidently acts like this is the logical outcome after ME2 - back to business on Earth. But it's not! At all! Shephard could have been sympathetic with Cerberus and allied with the Illusive man. He could've turned his back on the Alliance altogether and joined up with the Council Spectres. Besides, if it was so easy to just nope out of the Illusive Man's contract, why didn't Shephard do it sooner?
 
 It's so odd that the game essentially resets to the beginning of Mass Effect 1 with no acknowledgement that this is kind of... abrupt?
 
