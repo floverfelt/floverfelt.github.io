@@ -74,7 +74,7 @@ Whoever wrote the Protheans in this game was *genius*. It turns out, they're kin
 
 It's a bit like pulling the founding fathers into the present and then being like "Oh yeah, these guys owned slaves." It's a great reminder of the way we romanticize history and how little you can know a culture just by studying it and not experiencing it.
 
-A really great piece of the game.
+A really great piece of this game.
 
 
 
