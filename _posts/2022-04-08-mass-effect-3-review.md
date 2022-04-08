@@ -70,9 +70,15 @@ Likewise, I liked the resolution of the genophage. It was wrong and Mordin takes
 
 ## The Protheans
 
-Whoever wrote the Protheans in this game was *genius*. It turns out, they're kind of assholes. This hallowed, almost holy species that the entire galaxy looks up to are really arrogant, authoritarian jerks who believe themselves to be "the superior race."  
+Whoever wrote the Protheans in this game was *genius*. It turns out, they're kind of assholes. This hallowed, almost holy species that the entire galaxy reveres are really arrogant, authoritarian jerks who believe themselves to be "the superior race."  
 
 It's a bit like pulling the founding fathers into the present and then being like "Oh yeah, these guys owned slaves." It's a great reminder of the way we romanticize history and how little you can know a culture just by studying it and not experiencing it.
+
+It's a really great piece of the game.
+
+
+
+
 
 
 
