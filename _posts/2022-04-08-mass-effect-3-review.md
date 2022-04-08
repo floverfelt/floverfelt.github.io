@@ -54,6 +54,8 @@ This is so much less interesting than the way they were portrayed in Mass Effect
 
 This almost completely rewritten in Mass Effect 3, largely for the worse. Cerberus is evil now. They indoctrinate their soldiers. They're harvesting refugees. They're trying to control the Reapers. They've become the Nazi archetypes of this universe, and it's frustratingly simplistic.
 
+I did enjoy the twist that the Illusive Man was being indoctrinated by the Reapers, and hence the change in his attitude. It was a solid, lore backed explanation for his change and I really enjoyed it. But again, this is premised on you *finishing* the game. And even then, I think I'd rather have had them as an interesting 3rd party you have to negotiate with instead of the cartoon villian you get.
+
 
 
 
