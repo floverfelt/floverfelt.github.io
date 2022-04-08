@@ -50,7 +50,9 @@ The entire premise of the war assets system only makes sense within the context 
 
 Akin to the central plot, the plotline of Cerberus really frustrated me. The long-and-short of it is: They're evil now!
 
-This is so much less interesting than the way they were portrayed in Mass Effect 2. In ME2, they're a shadowy semi-terrorist organization who, in some ways, try to do good in the galaxy. They have a real utilitarian, "ends justify the means" attitude, but they aren't wholesale evil. 
+This is so much less interesting than the way they were portrayed in Mass Effect 2. In ME2, they're a shadowy semi-terrorist organization who, in some ways, try to do good in the galaxy. They have a real utilitarian, "ends justify the means" attitude, but they aren't wholesale evil. Many of the Illusive Man's actions are semi-altruistic in ME2 - reviving Shephard, saving the colonies from the Collectors, trying to establish communication with the Geth (DLC).
+
+This almost completely rewritten in Mass Effect 3, largely for the worse. 
 
 
 
