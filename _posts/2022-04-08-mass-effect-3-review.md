@@ -54,11 +54,11 @@ This is so much less interesting than the way they were portrayed in Mass Effect
 
 This almost completely rewritten in Mass Effect 3, largely for the worse. Cerberus is evil now. They indoctrinate their soldiers. They're harvesting refugees. They're trying to control the Reapers. They've become the Nazi archetypes of this universe, and it's frustratingly simplistic.
 
-Oh, but what about all the characters you liked from Cerberus - Miranda, Jacob? Don't worry they left. Wait *what*? Aren't they the die-hard Cerberus loyalists in ME2? And they just left? It's a little too convenient.
+Oh, but what about all the characters you liked from Cerberus - Miranda? Don't worry, they left. Wait *what*? Aren't they the die-hard Cerberus loyalists in ME2? And they just left? It's a little too convenient.
 
-You'll notice, ME2 did *not* do this. Kaiden meets up with Shephard and is like "Oh you're working with Cerberus? Well, I'm not, good luck." They didn't off-screen rewrite his entire morality and character arc just so that he could be a companion with your crew.
+You'll notice, ME2 did *not* do this. Kaiden meets up with Shephard early-on in Mass Effect 2 and is like "Oh you're working with Cerberus? Well, I'm not, good luck." They didn't off-screen rewrite his entire morality and character arc just so that he could be a companion with your crew.
 
-I did enjoy the twist that the Illusive Man was being indoctrinated by the Reapers, and hence the change in his attitude. It was a solid, lore backed explanation for his change and I really enjoyed it. But again, this is premised on you *finishing* the game. And even then, I think I'd rather have had them as an interesting 3rd party you have to negotiate with instead of the cartoon villian you get.
+I loved the twist that the Illusive Man was being indoctrinated by the Reapers, and hence the change in his attitude. It was a solid, lore backed explanation for his change and I really enjoyed it. But again, this is premised on you *finishing* the game. And even then, I think I'd rather have had them as an interesting 3rd party you have to negotiate with instead of the cartoon villian you get.
 
 ## The Geth, Quarians, and the Genophage
 
@@ -66,7 +66,11 @@ As the third game in a trilogy, Mass Effect 3 had a lot of loose ends to tie up,
 
 The Geth are actually treated as fully fleshed out characters, not only that, they have a *fantastic* retcon of the Quarians as the oppressors and the Geth as the downtrodden, "people without a home." The role reversal of the Geth and the Quarians was poignant, well done and superb writing. Given how cookie-cutter the main plot is, I was floored by how great these sections were. 
 
-Likewise, I liked the resolution of the genophage. It was wrong and Mordin takes ownership of that. The Krogan are reborn as better versions of themselves
+Likewise, I liked the resolution of the genophage. It was wrong and Mordin takes ownership of that. The Krogan are reborn as better versions of themselves. It's a solid piece of writing, with a cinematic ode to Mordin that I really enjoyed.
+
+## The Protheans
+
+Whoever wrote the Protheans in this game was *genius*. It turns out, their kind of assholes. This hallowed, almost holy species that the entire galaxy looks up to are really arrogant, authoritarian jerks. 
 
 
 
