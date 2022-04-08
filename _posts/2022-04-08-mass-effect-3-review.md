@@ -74,6 +74,15 @@ Whoever wrote the Protheans in this game was *genius*. It turns out, they're kin
 
 It's a bit like pulling the founding fathers into the present and then being like "Oh yeah, these guys owned slaves." It's a great reminder of the way we romanticize history and how little you can know a culture just by studying it and not experiencing it. A really great tidbit of this series.
 
+## The Ending
+
+As a I said before, the ending of Mass Effect 3 explains a lot of the different plot lines. Cerberus' descent into madness is explained, the necessity of stocking up "war assets" makes sense, the Crucible and its role/origin is explained.
+
+For all the controversy surrounding the ending, it's... fine? I didn't think it was all that different from the other games' endings. I enjoyed the alien, synthetic mind trying to grapple with the idea of a chaos in the universe. It reminded me of Asmiov's [The Last Question](https://en.wikipedia.org/wiki/The_Last_Question) and fit with some other themes the game touched on.
+
+Is your main character dying a cliche? Sure, but again...
+
+## This Series Has Never Been About the Plot
 
 
 
