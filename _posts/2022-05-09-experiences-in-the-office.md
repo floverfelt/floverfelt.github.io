@@ -38,11 +38,13 @@ Since I was already going to that location, I'll skip over all the issues with c
 
 I'd finished my 1 year stint of always going into the office and decided to only go in only 4 days a week. 
 
-- Our company got bought and split into two seperate companies. The fancy "tech floor" (read: awful open office plan) was given to the marketing department. Tech got punted to shared, 4 person cubicles on the floor above. 60% of the floor was empty, which made this a very depressing place to work.
+- Our company got bought and split into two seperate companies. The fancy "tech floor" (read: awful open office) was given to the marketing department. Tech got punted to shared, 4 person cubicles on the floor above. 60% of the floor was empty, which made this a very depressing place to work.
 
 - I was the sole person in my "pod" that came in consistently. The guy in the adjacent cube block was ostensibly a database administrator, but he mostly just watched cricket all day on his computer. Being in the office is a constant reminder of just how little your coworkers really do.
 
-- A third move t
+- During this time, a product manager in my cubicle-group would come in once every two weeks(ish) at 6 in the morning and then leave at 2 p.m. Her logic was that she could "beat traffic" doing this but I always thought it kind of defeated the purpose of coming into the office if the office was empty most of the time you were there.
+
+- 
 
 
 
