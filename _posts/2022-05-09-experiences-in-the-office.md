@@ -96,6 +96,8 @@ It always felt kind of toxic to me. There were two different sets of expectation
 
 Everybody's different and works in different ways. I get that some people need a place to focus that's free from distractions.
 
+I could see myself returning to an office at some point, even. I'm just never returning to an office where half of the people are there and half aren't. That was the cardinal sin and, really, the thing I hated most.
+
 
 
 
