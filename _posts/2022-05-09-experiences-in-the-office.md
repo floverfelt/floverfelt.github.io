@@ -68,7 +68,7 @@ I'd finished my 1 year stint of always going into the office and decided to only
 
 - There was a great coffee shop in the building that I really enjoyed and miss going to on occassion.
 
-- 
+
 
 
 
