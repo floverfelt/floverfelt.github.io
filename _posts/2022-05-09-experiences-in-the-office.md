@@ -72,7 +72,7 @@ I'd finished my 1 year stint of always going into the office and decided to only
 
 ## Final Notes
 
-Do I miss going into the office? I can resolutely say no. I miss the occassional chit-chat and getting to know my coworkers better but that's about it. In other ways I really don't getting to know my coworkers.
+Do I miss going into the office? I can resolutely say no. I miss the occassional chit-chat and getting to know my coworkers better but that's about it. But in other ways I really don't getting to know my coworkers.
 
 ### Ignorance can be bliss...
 
