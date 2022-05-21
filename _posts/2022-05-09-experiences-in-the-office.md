@@ -52,7 +52,7 @@ I'd finished my 1 year stint of always going into the office and decided to only
 
 - We had a couple genuinely fun in-office events. At one, we brought in alcohols from around the world (again, we were a super diverse team) and sampled them all. At another, we went bowling. It was great!
 
-- We had a Thanksgiving potluck. I was not feeling great about the job or my coworkers, and we were in the midst of a release and I had a lot to do so I decided to skip it. Probably <6 people went as it was entirely optional and not a scheduled thing like bowling or whatever. I was in the office though, near where they were having it. After the potluck was over, the account manager came over and chastised me for not going because "I wasn't doing enough to build community" or whatever. Nobody pinged the people who worked-from-home, though, and yelled at them! I was there, which just gave the person the opportunity to criticize me for not doing enough.
+- We had a Thanksgiving potluck. I was not feeling great about the job or my coworkers, and we were in the midst of a release and I had a lot to do so I decided to skip it. Probably <6 people went as it was entirely optional and not a scheduled thing like bowling or whatever. I was in the office, though, near where they were having it. After the potluck was over, the account manager came by and chastised me for not going because "I wasn't doing enough to build community" or whatever. Nobody pinged the people who worked-from-home, though, and yelled at them! I was there, which just gave the person the opportunity to criticize me for not doing enough.
 
 - One of my coworkers was really into Taekwondo. Another was super into MMA. They would frequently talk about which is better and this eventually escalated into them actually fighting in the office one day. It wasn't a big thing like in the *The Office* more they just grappled with each other until one of them pulled the other to the ground. A couple other people watched and cheered. It was weird.
 
@@ -60,9 +60,11 @@ I'd finished my 1 year stint of always going into the office and decided to only
 
 - The company had spent god knows how much money on a brand new office building that we moved into in 2019. This was my *third* move in three years.
 
-- The office took up an entire city block and you leased it floor-by-floor. It was *huge* and filled with half cubicles. The company had bought it during its growth years (pre acquisition) which meant that they were expected it to be filled due to their exponential growth. Instead, it now had *maybe* 30% of the space filled and was so empty that it was a little unnerving.
+- The office took up an entire city block and you leased it floor-by-floor. It was *huge* and filled with half cubicles. The company had bought it during its growth years (pre-acquisition) which meant that they were expected it to be filled due to their exponential growth. Instead, it now had *maybe* 30% of the space filled and was so empty that it was a little unnerving.
 
-- When an office hits that size, doing anything is kind of a pain. You had to walk half a block away to go to the bathroom. Another half block to get coffee. A third to find a meeting room. To leave the building you had to walk around the block essentially.
+- When an office hits that size, doing anything is kind of a pain. You had to walk half a block away to go to the bathroom. Another half block to get coffee. A third to find a meeting room. To leave the building you had to walk around the block to get out of the building and then walk around it again to get to where you wanted to go.
+
+- 
 
 
 
