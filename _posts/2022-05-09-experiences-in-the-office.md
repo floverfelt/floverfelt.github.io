@@ -86,7 +86,7 @@ I also felt a lot weirder about coding side projects while in the office. I most
 
 Now, if I don't have anything to do (which is totally normal at times!) I work on side projects or clean the apartment. Nobody minds.
 
-
+### There's two classes of workers
 
 
 
