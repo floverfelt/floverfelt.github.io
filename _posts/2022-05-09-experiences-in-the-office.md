@@ -50,7 +50,9 @@ I'd finished my 1 year stint of always going into the office and decided to only
 
 - The aforementioned tech space had no common area. There were mostly single cubes but there was one "mega cube" which seated 4 people and had a small table in the center. I was in the mega-cube and, since there was no common area, that meant everybody ate at the small table right behind me. A lot. It was fairly annoying to be working, or have a lunch call, and then turn to hear 4 people munching chips. I don't really blame them, though, it's not like we had anywhere else.
 
-- 
+- We had a couple genuinely fun in-office events. At one, we brought in alcohols from around the world (again, we were a super diverse team) and sampled them all. At another, we went bowling. It was great!
+
+- We had a Thanksgiving potluck. I was not feeling great about the job, my coworkers, and we were in the midst of a release and I had a lot to do so I decided to skip it. Probably <6 people went as it was entirely optional and not a scheduled thing like bowling or whatever. I was in the office though, near where they were having it. 
 
 
 
