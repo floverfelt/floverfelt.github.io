@@ -50,6 +50,7 @@ Any external sites that I find valuable I'll store at the bottom under "Links."
 - [Thoughts on Angular](https://floverfelt.org/posts/thoughts-on-angular)
 - ["I learned more from X than I ever did from Y."](https://floverfelt.org/posts/i-learned-more-from)
 - [Dota 2](https://floverfelt.org/posts/dota-2)
+- [Office Experiences](https://floverfelt.org/posts/office-experiences)
 
 ## *Speaker for the Dead*: A Complete Analysis
 - [Chapter 1: Pipo](https://floverfelt.org/posts/speaker-for-the-dead-analysis-1)
