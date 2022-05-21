@@ -80,7 +80,9 @@ It's incredibly galling to come in and realize the senior engineers (who literal
 
 ### Pretending to be busy
 
-This is a tired point
+This is a tired point, but you do spend a lot of time pretending to be busy. This, for me, resulted in a *lot* more time on LinkedIn. Since it's technically a "work" social media, it wasn't blocked and I wound up spending a lot of time on there and subsequently felt awful.
+
+
 
 
 
