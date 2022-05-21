@@ -76,7 +76,7 @@ Do I miss going into the office? I can resolutely say no. I miss the occassional
 
 ### Ignorance can be bliss...
 
-It's incredibly galling to come in and realize the senior engineers (who literally sit next to you) are reading ESPN for 2 hours everyday and embellishing their status reports in standup. When remote, you can ignore this! It's very difficult to spend 2 hours on a problem only to swivel around and see the "senior" engineer dicking around on Facebook. I can ignore this at home!
+It's incredibly galling to come in and realize the senior engineers (who literally sit next to you) are reading ESPN for 2 hours everyday and embellishing their status reports in standup. When remote, you can ignore this! It's very difficult to spend 2 hours on a problem only to swivel around and see the "senior" engineer dicking around on their phone. I can ignore this at home!
 
 
 
