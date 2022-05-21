@@ -64,6 +64,8 @@ I'd finished my 1 year stint of always going into the office and decided to only
 
 - When an office hits that size, doing anything is kind of a pain. You had to walk half a block away to go to the bathroom. Another half block to get coffee. A third to find a meeting room. To leave the building you had to walk around the block to get out of the building and then walk around it again to get to where you wanted to go.
 
+- My tech leads desk was right in front of mine. He almost never came in and literally dumped all of his stuff on his desk. There was trash, cords, etc. strewn about his desk everyday that I got to walk past. 
+
 - The building was incredibly ritzy and trying to attract people to come in. This meant they put on a lot of events which were actually super cool. We got free ice cream one day and on the 4th of July they opened their rooftop, hired a bartender, gave out free drinks, and we could watch the fireworks over D.C. An incredibly cool experience that only like 20 people went to.
 
 - There was a great coffee shop in the building that I really enjoyed and miss going to on occassion.
