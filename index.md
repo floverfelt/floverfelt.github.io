@@ -22,6 +22,7 @@ Any external sites that I find valuable I'll store at the bottom under "Links."
 
 - A Chrome Extension for gratitude journaling: [Three Gratitudes](https://chrome.google.com/webstore/detail/three-gratitudes/pfjadpjmhanlgkpboobbfiecohncegfd?hl=en)
 - An Open Source Maven plugin to find and replace text in files: [find-and-replace-maven-plugin](https://github.com/floverfelt/find-and-replace-maven-plugin)
+- An Open Source Maven plugin to visualize the build pom: [pom-visualizer-maven-plugin](https://github.com/floverfelt/pom-visualizer-maven-plugin)
 
 ## Posts
 
