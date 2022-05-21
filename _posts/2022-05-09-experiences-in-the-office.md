@@ -94,7 +94,7 @@ It always felt kind of toxic to me. There were two different sets of expectation
 
 ## In Summation
 
-Everybody's different and works in different ways. I get that some people need a place to focus that's free from distractions. I get that some people need to be
+Everybody's different and works in different ways. I get that some people need a place to focus that's free from distractions.
 
 
 
