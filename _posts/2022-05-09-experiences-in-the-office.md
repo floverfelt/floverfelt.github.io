@@ -46,7 +46,9 @@ I'd finished my 1 year stint of always going into the office and decided to only
 
 - A second move brought another (?) marketing department to the same floor and next to us. Ironically, having the floor full was *also* a little depressing. The marketing people seemed to be having a *great* time. They were all friends, they had cubicle decorating contests, they went out after work, and genuinely seemed to enjoy being there. I got to listen to the Cricket watcher talk about how many pull ups he could do on the phone. 
 
-- To "properly give the tech team its space," we moved *again* to another floor a level down. This was designated "tech space" and was meant to enhance productivity by putting all the tech people next to each other. The problem was, we'd just been acquired by a mega-corp that was extremely supportive of remote work. Between that and the staff attrition, the "tech floor" was now 90% empty with *maybe* 10 people coming in semi-regularly. This was definitely the low point of in-office work.
+- To "properly give the tech team its space," we moved *again* to another floor a level down. This was designated "tech space" and was meant to enhance productivity by putting all the tech people next to each other. The problem was, we'd just been acquired by a mega-corp that was extremely supportive of remote work. Between that and the staff attrition, the "tech floor" was now 90% empty with *maybe* 15 people coming in semi-regularly. This was definitely the low point of in-office work.
+
+- The aforementioned tech space had no common area. There were mostly single cubes but there was one "mega cube" which seated 4 people and had a small table in the center. I was in the mega-cube and, since there was no common area, that meant everybody ate at the small table right behind me. A lot. It was fairly annoying to be working, or have a lunch call, and then turn hear 4 people munching on chips. I don't really blame them, though, we didn't have any other space to eat.
 
 - 
 
