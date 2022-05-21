@@ -92,7 +92,9 @@ When half the office is remote and half isn't, you create an incredibly bifrucat
 
 It always felt kind of toxic to me. There were two different sets of expectations - one for the remote workers, one for the in-office workers - and it never skewed to the benefit of the office employees.
 
+## In Summation
 
+Everybody's different and works in different ways. I get that some people need a place to focus that's free from distractions. I get that some people need to be
 
 
 
