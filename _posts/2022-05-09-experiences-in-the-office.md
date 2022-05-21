@@ -52,7 +52,7 @@ I'd finished my 1 year stint of always going into the office and decided to only
 
 - We had a couple genuinely fun in-office events. At one, we brought in alcohols from around the world (again, we were a super diverse team) and sampled them all. At another, we went bowling. It was great!
 
-- We had a Thanksgiving potluck. I was not feeling great about the job, my coworkers, and we were in the midst of a release and I had a lot to do so I decided to skip it. Probably <6 people went as it was entirely optional and not a scheduled thing like bowling or whatever. I was in the office though, near where they were having it. After the potluck was over, the account manager came over and chastised me for not going because "I wasn't doing enough to build community" or whatever. Nobody pinged the people who worked-from-home, though, and yelled at them! I was there, which just gave the person the opportunity to criticize me for not doing enough.
+- We had a Thanksgiving potluck. I was not feeling great about the job, my coworkers, and we were in the midst of a release and I had a lot to do so I decided to skip it. Probably <6 people went as it was entirely optional and not a scheduled thing like bowling or whatever. I was in the office though, near where they were having it. After the potluck was over, the account manager came over and chastised me for not going because "I wasn't doing enough to build community" or whatever. Nobody pinged the people who worked-from-home, though, and yelled at them! I was there, which just gave the person the opportunity to criticize me for not doing enough. 
 
 - 
 
