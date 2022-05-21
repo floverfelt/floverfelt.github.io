@@ -88,6 +88,8 @@ Now, if I don't have anything to do (which is totally normal at times!) I work o
 
 ### There's two classes of workers
 
+When half the office is remote and half isn't, you create an incredibly bad working enviornment. For one thing, I always felt like I wasn't cashing in on some work benefit by coming into the office. 
+
 
 
 
