@@ -60,7 +60,7 @@ I'd finished my 1 year stint of always going into the office and decided to only
 
 - The company had spent god knows how much money on a brand new office building that we moved into in early 2019. This was my *third* move in three years.
 
-- The office took up an entire city block and you leased it floor-by-floor. It was *huge* and filled with half cubicles. The company had bought it during its growth years (pre-acquisition) which meant that they were expected it to be filled due to their exponential growth. Instead, it now had *maybe* 30% of the space filled and was so empty that it was a little unnerving.
+- The office took up an entire city block and you leased it floor-by-floor. It was *huge* and filled with half cubicles. The company bought it during its growth years (pre-acquisition) which meant that they were expected it to be filled due to their exponential growth. Instead, it now had *maybe* 30% of the space filled and was so empty that it was a little unnerving.
 
 - When an office hits that size, doing anything is kind of a pain. You had to walk half a block away to go to the bathroom. Another half block to get coffee. A third to find a meeting room. To leave the building you had to walk around the block to get out of the building and then walk around it again to get to where you wanted to go.
 
