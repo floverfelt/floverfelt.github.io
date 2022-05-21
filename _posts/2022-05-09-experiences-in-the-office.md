@@ -54,7 +54,9 @@ I'd finished my 1 year stint of always going into the office and decided to only
 
 - We had a Thanksgiving potluck. I was not feeling great about the job, my coworkers, and we were in the midst of a release and I had a lot to do so I decided to skip it. Probably <6 people went as it was entirely optional and not a scheduled thing like bowling or whatever. I was in the office though, near where they were having it. After the potluck was over, the account manager came over and chastised me for not going because "I wasn't doing enough to build community" or whatever. Nobody pinged the people who worked-from-home, though, and yelled at them! I was there, which just gave the person the opportunity to criticize me for not doing enough. 
 
-- 
+### The third year 
+
+- The company had spent god knows how much money on a brand new office building that we moved into in 2019. This is the *third* move in three years
 
 
 
