@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 slug: office-experiences
 tags:
