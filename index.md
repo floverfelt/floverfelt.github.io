@@ -58,7 +58,6 @@ Any external sites that I find valuable I'll store at the bottom under "Links."
 - [Chapter 2: Trondheim](https://floverfelt.org/posts/speaker-for-the-dead-analysis-2)
 
 ## Reviews
-
 - [Avernum 3: Ruined World Review](https://floverfelt.org/posts/avernum-3-review)
 - [A Rambly Makebook.io Review](https://floverfelt.org/posts/makebook-review)
 - [Reviewing "The Seven Principles for Making Marriage Work"](https://floverfelt.org/posts/seven-princip-marriage)
