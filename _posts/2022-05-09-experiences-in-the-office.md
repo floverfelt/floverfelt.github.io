@@ -82,7 +82,7 @@ It's incredibly galling to come in and realize the senior engineers (who literal
 
 This is a tired point, but you do spend a lot of time pretending to be busy. This, for me, resulted in a *lot* more time on LinkedIn. Since it's technically a "work" social media, it wasn't blocked and I wound up spending a lot of time on there and subsequently felt awful.
 
-
+I also felt a lot weirder about coding side projects while in the office. I mostly wanted to code web apps which were very obviously *not* a work project and everybody around me were coders so I it's not like they wouldn't be aware of what I was doing. Ironically, this is a much better use of my spare time than reading work blogs or LinkedIn industry articles, but I felt better about doing the latter. Strange social expectations.
 
 
 
