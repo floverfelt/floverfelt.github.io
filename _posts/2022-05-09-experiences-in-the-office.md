@@ -22,7 +22,7 @@ Since I was already going to that location, I'll skip over all the issues with c
 
 ### The first year-ish...
 
-- Since we were a tech (tm) company, we had to have an open office. There were half wall dividers between the rows and no gaps between the seats in the rows. This was pretty miserable because everytime myself and the other new hire wanted to discuss *anything* between us (i.e. how to install Java), we had to do it in front of the row of senior engineers and managers. I don't they cared, but it was embarassing all the same.
+- Since we were a tech (tm) company, we had to have an open office. There were half wall dividers between the rows and no gaps between the seats in the rows. This was pretty miserable because everytime myself and the other new hire wanted to discuss *anything* between us (i.e. how to install Java), we had to do it in front of the row of senior engineers and managers. I don't think they cared, but it was embarassing all the same.
 
 - One third of the team came in, *maybe*, one day a week. This included both of the tech leads I had for the first two years at the job. The rest of the team came in either everyday (me) or three times a week/however much they felt like.
 
