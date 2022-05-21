@@ -88,7 +88,7 @@ Now, if I don't have anything to do (which is totally normal at times!) I work o
 
 ### There's two classes of workers
 
-When half the office is remote and half isn't, you create an incredibly bifrucated social environment. For one thing, I always felt like I wasn't cashing in on some work benefits by coming in. The remote workers got to wake up at 8:55, I had to get up at 7:30. They didn't have to setup meetings, attend work functions
+When half the office is remote and half isn't, you create an incredibly bifrucated social environment. For one thing, I always felt like I wasn't cashing in on some work benefits by coming in. The remote workers got to wake up at 8:55, I had to get up at 7:30. They didn't have to setup meetings, attend work functions, etc. I did. They didn't have to respond promptly to messages, I did because I was at the office. They could leave for multiple hours at a time. I couldn't without it being very obvious.
 
 
 
