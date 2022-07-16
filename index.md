@@ -67,6 +67,7 @@ Any external sites that I find valuable I'll store at the bottom under "Links."
 - [Mass Effect Review](https://floverfelt.org/posts/mass-effect-review)
 - [Mass Effect 2 Review](https://floverfelt.org/posts/mass-effect-2-review)
 - [Mass Effect 3 Review](https://floverfelt.org/posts/mass-effect-3-review)
+- [The Outer Wilds Review](https://floverfelt.org/posts/outer-wilds-review)
 
 ## Links for Building
 
