@@ -50,7 +50,7 @@ Likewise, I felt as if the Nomai's extinction was a little shoe-horned in. It wa
 
  I loved that at first the signal scope and scout launcher are totally worthless. I thought they were equivalent of the marshmallows - just a cute little addition. The fact that they are indispensable should have been obvious from a game-dev standpoint but I'm an idiot and missed it. In the end, they were really cleverly used and I loved how they were integrated with the plot.
 
- ## The Ending
+## The Ending
 
 I have mixed feelings about how this game ends. My final, perhaps most controversial point, is that I do not find the Hearthians *that* endearing. They're cute and I loved the unique sound design that accompanied each guy, but fundamentally they're just not around all that much? 
 
