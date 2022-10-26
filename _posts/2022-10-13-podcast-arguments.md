@@ -74,25 +74,11 @@ Perhaps we should have stuck with that a little longer? A premenient computer sc
 
 To be clear, straight argumentation is *not* the answer. There's countless JRE podcasts where the guests butt heads and [it's completely uninteresting](https://open.spotify.com/episode/6civXCl6aIUJGFyHqkiPlQ). There's a number of Sam Harris podcasts [like that](https://podcasts.apple.com/us/podcast/32-the-best-podcast-ever/id733163012?i=1000364700660) as well.
 
-There's a way to strike a balance. To linger on points for a couple more minutes instead of moving on or just baldly stating that 
+There's a way to strike a balance. To linger on points for a couple more minutes instead of moving on. To prod at somebody without offending them. To go off on tangents that seem unrelated.
 
+## Who's doing this right?
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Some good examples of this recently: 
 
 
 
