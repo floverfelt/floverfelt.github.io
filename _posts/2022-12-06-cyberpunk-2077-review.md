@@ -39,7 +39,9 @@ This is the core tension at the heart of this game: There's some some incredibly
 
 Video games are about living the imagined life of another. In _Cyberpunk_ V is the character and you are the player. The player is inhabiting the world of V, while V's world is being inhabited by the life of a 3rd character - Johnny. The player-character relationship is parralled in the V-Johnny relationship - both Johnny and you are living the life of another. And that's a really cool concept!
 
-V and Johnny's relationship makes great use of this. His plot/redemption arc, while a little hamfisted, is engaging and I really enjoyed it. Johnny being a complete self-absorbed asshole who inhabits your body was clever - the player remained the character (V) while experiencing the broader world, backstory, and concept. It's a neat conceit and it fit into the meta-mechanical-question of how storytelling in a video: How do you tell a multi-perspective story from a 
+V and Johnny's relationship makes great use of this. His plot/redemption arc, while a little hamfisted, is engaging and I really enjoyed it. Johnny being a complete self-absorbed asshole who inhabits your body was clever - the player remained the character (V) while experiencing the broader world, backstory, and concept. It's a neat conceit and it fit into the meta-mechanical-question of how storytelling in a video works: How do you tell a multi-perspective story from a single character's perspective?
+
+
 
 
 
