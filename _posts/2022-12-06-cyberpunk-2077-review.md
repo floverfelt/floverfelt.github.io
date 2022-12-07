@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 slug: cyberpunk-2077-review
 tags:
