@@ -78,7 +78,7 @@ _The Witcher 3_ had a little detective mini-game with your Witcher senses and _C
 
 Perhaps because sex, violent delights, and violent ends _are_ so graphic they're more salient when represented visually as opposed to in-text.
 
-I wouldn't say _Cyberpunk_ said anything deep per-se about the concepts of, e.g., the sancitity of the body in relation to technical progress, sex without consequences, or the dehumanization of man, but watching a ripper doc replace a sex worker's face plate while berating one another was jarring in a way that only visual media can reproduce.
+I wouldn't say _Cyberpunk_ said anything deep per-se about the concepts of, e.g., the sancitity of the body in relation to technical progress, sex without consequences, or the dehumanization of man, but watching a ripper doc replace a sex worker's face plate while they berated one another was jarring in a way that only visual media can reproduce.
 
 ## Cyberpunk as a game is a mess
 
@@ -90,7 +90,7 @@ It was pretty bad. The optional "secure the stash" pop up events were ruined bec
 
 ### There's no difficulty here
 
-This game has a real problem of keeping engagement up. There should be a lot more combat and a lot less go here, do X (non combative thing) and return. At one point in the Aldecaldos questline, I got a tank, used it to wipe out a few guys, and then the mechanic never came back. This isn't all that bad, but the non-combative quests reward a lot of experience which means by the middle of the game you are an absolute monster: I killed the final boss with just a katana and I wasn't even all that skilled in blades.
+This game has a real problem of keeping engagement up. There should be a lot more combat and a lot less go here, do X (non combative thing) and return. At one point in the Aldecaldos questline, I got a tank, used it to wipe out a few guys, and then the tank-driving mechanic never came back - it was the same as any other go here, do X quest in the game. This isn't all that bad, but the non-combative quests reward a lot of experience which means by the middle of the game you are an absolute monster: I killed the final boss with just a katana and I wasn't even all that skilled in blades.
 
 There's a horrible balance problem which is exacerbated by the fact that most quests aren't even throwing a lot of enemies at you in the first place.
 
