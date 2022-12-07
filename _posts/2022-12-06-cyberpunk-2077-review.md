@@ -31,7 +31,17 @@ I could go on - there's tons of little details throughout that are homage's to t
 
 I wouldn't actually call this a fault in and of itself. It's only a fault because it so easily calls the comparison to the book, which has such a better plot and is overall such a superior piece of media, that it makes _Cyberpunk_ look pretty bland by comparison.
 
-## Cyberpunk 
+## Cyberpunk has a lot of cool concepts, without much to say
+
+This is the core tension at the heart of this game: There's some some incredibly cool and novel ideas that go precisely nowhere.
+
+### Johnny Silverhand
+
+Video games are about living the imagined life of another. In _Cyberpunk_ V is the character and you are the player. The player is inhabiting the world of V, while V's world is being inhabited by the life of a 3rd character - Johnny. The player-character relationship is parralled in the V-Johnny relationship - both Johnny and you are living the life of another. And that's a really cool concept!
+
+V and Johnny's relationship makes great use of this. His plot/redemption arc, while a little hamfisted, is engaging and I really enjoyed it. Johnny being a complete self-absorbed asshole who inhabits your body was clever - the player remained the character (V) while experiencing the broader world, backstory, and concept. It's a neat conceit and it fit into the meta-mechanical-question of how storytelling in a video: How do you tell a multi-perspective story from a 
+
+
 
 
 
