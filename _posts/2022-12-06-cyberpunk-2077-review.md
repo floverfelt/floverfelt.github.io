@@ -16,7 +16,7 @@ And
 
 > Wow this is such a _bad_ realization of Gibson's cyberpunk world!
 
-## Cypberpunk is Neuromancer-lite
+## Cypberpunk 2077 is Neuromancer-lite
 
 The plot of _Cyberpunk 2077_ is basically that of Neuromancer. No, it's not quite 1:1, but the plot beats are so close to being equivalent that it's almost laughable:
 
@@ -27,7 +27,16 @@ The plot of _Cyberpunk 2077_ is basically that of Neuromancer. No, it's not quit
 - AI's are lurking just behind a firewalled net and could escape at any moment.
 - The engram AI is suffering and wants to be released from his cyber-hell.
 
-I could go on - there's tons of little details throughout that are homage's to the book and/or just adaptation of those ideas. Yes, I know that 
+I could go on - there's tons of little details throughout that are homage's to the book and/or just adaptation of those ideas. Yes, I know that _Neuromancer_ set the stage for (and invented) many core cyberpunk concepts, but still.
+
+I wouldn't actually call this a fault in and of itself. It's only a fault because it so easily calls the comparison to the book, which has such a better plot and is overall such a superior piece of media, that it makes _Cyberpunk_ look pretty bland by comparison.
+
+## Cyberpunk 
 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+
+
+
+
+
