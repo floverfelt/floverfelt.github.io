@@ -31,7 +31,7 @@ I think a lot about the 8chan owner who bought the pokiman domain and turned it 
 
 Domains are far more similar to stocks in this regard - anybody can buy a stock - and anybody can buy a domain.
 
-This is pure speculation - but I'd also guess that the lower costs provide fewer incentives to develop the space. A larger investment and upkeep means you're more invested in the outcome.
+This is pure speculation - but I'd also guess that the lower costs provide fewer incentives to develop the space. A larger investment and upkeep means you're more invested in the outcome, and invested in the outcome in a reasonable timeframe. I get that some domains do have a high upfront cost and people do buy 
 
 ### Average people don't care about dead domains
 
@@ -49,9 +49,25 @@ People have a very fanciful view of what this would look like: I'd login to some
 
 I don't actually think this would happen. Again, domain costs are *so low* that I think people would just buy them and sit on them. Every person since the inception of the internet who's ever had the idea to develop the domain would just buy it and say "oh eventually I'm going to do something with this." There's no incentive to sell them because there's no market and there's no incentive to drop them because they're so cheap to hold.
 
-Domainers are a necessary evil - yes they're gouging you for a database entry somewhere - but I still think this is a better world than one where you *can never buy the entry at all*. They provide the market forces which keep people moving domains around and the relatively painless buying/selling process. Without them, you'd have a stale internet full of dead links with unreachable contacts.
+Domainers are a necessary evil - yes they're gouging you for a database entry somewhere - but I still think this is a better world than one where you *can never buy the entry at all*. They provide the market forces which keep people moving domains around and the *relatively* painless buying/selling process. Without them, you'd have a stale internet full of dead links with unreachable contacts.
 
 ## People who are mad about domainers are mad about the Internet
+
+Most people complaining about domaining are mad that we don't live in the weird, wild Internet of yore. One where every website was developed with no JS, just raw HTML! One where there were no abandonded websites - each was a curated garden, lovingly maintained. All domains were free for the taking - all you needed was a good idea and a good name and you could start building! Developers talked on mailing lists! They shared resources! They swapped domains out of the good will of their hearts!
+
+Unfortunately, this isn't the world we live in. The internet is too commercial and there's been too much money pumped into it for something like that to realistically exist. Is it annoying that I have to pay many multiples of it's value to get a domain, yeah, it is. But at least I *have the ability to buy the domain*. I'm not emailing a defunct address only to eventually find that the guy who owns it has no idea how to value it, doesn't know how to sell it, and is keeping it for "sentimental value."
+
+I know HackerNews thinks [gail.com](https://gail.com/) is really clever/cool, but imagine if *every single domain was like this*. Just some filler text, "holding because I bought it a long time ago" kind of thing. Imagine how peeved you'd be if your startup, or SMB, couldn't buy the domain *that would actually really help it* because some guy in Wichita got it for his birthday. At least in the system we have now, there is a way to buy it, however outrageous.
+
+## The domain market maybe just needs some regulation?
+
+If we start from outcomes and work our way backwards - what most people interested in domains want are either the domains to be developed or fairly priced. It doesn't bother me that I can't buy google(.com). Google is a well used domain name! They've earned it! It also doesn't bother me all that much that I have to pay to acquire a smaller domain that has a business running on it. It's a fair exchange. 
+
+The problem is targeting the people who not only own a domain to resell it, but also do *nothing* to work towards that goal, and also have no intention of truly developing it. They squat on it, filling it with garbage ads, while arbitraging on other people's work to develop a space.
+
+Land taxes
+
+
 
 
 
