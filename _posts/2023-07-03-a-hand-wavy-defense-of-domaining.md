@@ -65,29 +65,8 @@ If we start from outcomes and work our way backwards - what most people interest
 
 The problem is targeting the people who not only own a domain to resell it, but also do *nothing* to work towards that goal, and also have no intention of truly developing it. They squat on it, filling it with garbage ads, while arbitraging on other people's work to develop a space.
 
-Land taxes
+Land taxes actually do prevent this - business property in NYC is taxed on the value it could produce, not the value it *does* produce. An empty lot is taxed according to it's *value* not a flat tax, and the same with homes, they're taxed by their assessed value. Perhaps there's a similar solution for domains. If you aren't developing it, you need to pay for it as if you were instead of being charged an abysmally low flat "tax" each year the way it is now.
 
+Would that cause other issues? Probably. How do you assess "development" of a domain? I have no idea. But the current system provides no incentive to develop a domain or quickly offload it to someone who would. It also doesn't provide much stake in the digital community to which the name belongs, so you get squatters and get gouged when you try to buy a domain.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+But, at least you can buy it.
