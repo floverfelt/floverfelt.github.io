@@ -25,9 +25,9 @@ Second, it's not really like real estate speculation at all *other than the rent
 
 Maintaining a domain costs essentially nothing. There's a $12 to $80 a year registration fee and that's... pretty much it.
 
-Compare this with real estate deals which often cost tens of thousands of dollars in upfront costs and then thousands of dollars each year in taxes (we'll talk more about this later). The higher upfront cost is a good thing here, since it prevents charlatans from entering the market. Buyers who don't care and are just out to extract value have a super low barrier to entry and they exploit this - a lot!
+Compare this with real estate deals which often cost tens of thousands of dollars in upfront costs and then thousands of dollars each year in taxes (we'll talk more about this later). The higher upfront cost is a good thing in real estate, since it prevents charlatans from entering the market. Buyers who don't care and are just out to extract value have a very high barrier to entry, which discourages that kind of behavior. Does it work? Not always, but domainers have a basically zero barrier to entry and they exploit that - a lot!
 
-I think a lot about the 8chan owner who bought the pokiman domain and turned it into a porn site. Had the upfront cost been significantly higher, would he have done this? Probably not.
+I think about the 8chan owner who bought the pokiman domain and turned it into a porn site until he could essentially blackmail Nintendo into buying it from him. Had the upfront cost been significantly higher, would he have done this? Probably not.
 
 Domains are far more similar to stocks in this regard - anybody can buy a stock - and anybody can buy a domain.
 
