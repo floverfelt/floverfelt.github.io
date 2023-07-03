@@ -31,7 +31,7 @@ I think about the 8chan owner who bought the pokiman domain and turned it into a
 
 Domains are far more similar to stocks in this regard - anybody can buy a stock - and anybody can buy a domain.
 
-This is pure speculation - but I'd also guess that the lower costs provide fewer incentives to develop the space. A larger investment and upkeep means you're more invested in the outcome, and invested in the outcome in a reasonable timeframe. I get that some domains do have a high upfront cost and people do buy 
+This is pure speculation - but I'd also guess that the lower costs provide fewer incentives to develop the space. A larger investment and upkeep means you're more invested in the outcome, and invested in the outcome in a reasonable timeframe. I get that some domains do have a high upfront cost, but the essentially free upkeep means their time horizon is basically forever. If I can sell a domain for $1000 more than I bought it for, I can hold it for ~80 years before it starts cutting into my (predicted) profits.
 
 ### Average people don't care about dead domains
 
