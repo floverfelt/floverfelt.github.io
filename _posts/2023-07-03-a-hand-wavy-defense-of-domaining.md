@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 slug: a-hand-wavy-defense-of-domaining
 tags:
