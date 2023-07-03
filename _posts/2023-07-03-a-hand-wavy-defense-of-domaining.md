@@ -7,7 +7,6 @@ tags:
   - coding
 author: Florian
 ---
-## A Hand Wavy Defense of "Domaining"
 
 I have really mixed feelings about [domaining](https://en.wikipedia.org/wiki/Domain_name_speculation). I've been way, _way_ overcharged for domains that I've wanted and I've also bought a few domains explicitly to sell.
 
