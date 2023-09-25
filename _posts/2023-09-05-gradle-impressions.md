@@ -42,5 +42,4 @@ Of course, all of that is *totally pointless* if your build is just... building 
 
 I think a lot of people misunderstand Gradle. It doesn't really shine as a tool for assembling a simple jar - Maven is far better for that. It shines as more of a build platform - for doing a lot of complicated tasks quickly in a JVM ecosystem.
 
-There seems to be two camps among software engineers - those that think a build tool should just build the code - and those that say - well, I'm already building my code, let me do a few more things... If you're in the later camp, you'll love Gradle - so long as you can get over the learning curve.
-
+There seems to be two camps among software engineers - those that think a build tool should just build the code - and those that say - well, I'm already building my code, let me do a few more things... If you're in the latter camp, you'll love Gradle - so long as you can get over the learning curve.
