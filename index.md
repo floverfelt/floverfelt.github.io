@@ -55,6 +55,7 @@ Any external sites that I find valuable I'll store at the bottom under "Links."
 - [Revisiting the Basecamp Debacle](https://floverfelt.org/posts/revisiting-the-basecamp-debacle)
 - [Kotlin: Still not impressed](https://floverfelt.org/posts/kotlin-still-not-impressed)
 - [A hand-wavy defense of domaining](https://floverfelt.org/posts/a-hand-wavy-defense-of-domaining)
+- [Gradle Impressions](https://floverfelt.org/posts/gradle-impressions)
 
 ## *Speaker for the Dead*: A Complete Analysis
 - [Chapter 1: Pipo](https://floverfelt.org/posts/speaker-for-the-dead-analysis-1)
